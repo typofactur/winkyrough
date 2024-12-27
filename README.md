@@ -35,16 +35,16 @@
 
 # My Font
 
-[![][Fontbakery]](https://typofactur.github.io/winkyrough.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://typofactur.github.io/winkyrough.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://typofactur.github.io/winkyrough.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://typofactur.github.io/winkyrough.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://typofactur.github.io/winkyrough/fontbakery/fontbakery-report.html)
+[![][Universal]](https://typofactur.github.io/winkyrough/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://typofactur.github.io/winkyrough/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://typofactur.github.io/winkyrough/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough.git%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftypofactur%2Fwinkyrough%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Winky Rough is the roughed variant of Winky Sans (https://github.com/typofactur/winkysans) imitating dried ink on rough paper.
 
@@ -81,6 +81,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 **27 December 2024. Version 1.002**
 - initial release
+- roughness 15/15/10
+- seven static weights (no variable font)
 
 ## License
 
