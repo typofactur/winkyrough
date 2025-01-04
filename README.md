@@ -87,6 +87,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **04 January 2025. Version 1.005**
 - jacute
 - width math signs (greaterequal, plusminus)
+- commaturndedabove deleted
+- dottedCircle added
 
 ## License
 
