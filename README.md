@@ -89,6 +89,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - width math signs (greaterequal, plusminus)
 - commaturndedabove deleted
 - dottedCircle added
+- no ligatures
 
 ## License
 
