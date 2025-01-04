@@ -84,6 +84,9 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - roughness 15/15/10
 - seven static weights (no variable font)
 
+**04 January 2025. Version 1.005**
+- jacute
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
