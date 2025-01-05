@@ -1,0 +1,222 @@
+{
+glyphname = quotedbl;
+kernLeft = KO_quotedbl;
+kernRight = KO_quotedbl;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (70,62.5);
+type = Stem;
+},
+{
+place = (195,62.5);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (151,0);
+ref = quotesingle;
+}
+);
+width = 325;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (70,62.5);
+type = Stem;
+},
+{
+place = (195,62.5);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (201,0);
+ref = quotesingle;
+}
+);
+width = 399;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (70,62.5);
+type = Stem;
+},
+{
+place = (195,62.5);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (170,0);
+ref = quotesingle;
+}
+);
+width = 352;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (70,63);
+type = Stem;
+},
+{
+place = (195,63);
+type = Stem;
+}
+);
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (161,0);
+ref = quotesingle;
+}
+);
+width = 343;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (70,63);
+type = Stem;
+},
+{
+place = (195,63);
+type = Stem;
+}
+);
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (171,0);
+ref = quotesingle;
+}
+);
+width = 356;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (70,63);
+type = Stem;
+},
+{
+place = (195,63);
+type = Stem;
+}
+);
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (181,0);
+ref = quotesingle;
+}
+);
+width = 383;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (70,63);
+type = Stem;
+},
+{
+place = (195,63);
+type = Stem;
+}
+);
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (191,0);
+ref = quotesingle;
+}
+);
+width = 403;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+note = quotedbl;
+unicode = 34;
+userData = {
+KernOnName = quotedbl;
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

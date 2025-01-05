@@ -1,0 +1,99 @@
+{
+glyphname = Ntilde;
+kernLeft = KO_N;
+kernRight = KO_N;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (63,167);
+ref = tildecomb;
+}
+);
+width = 575;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (49,125);
+ref = tildecomb;
+}
+);
+width = 569;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (61,167);
+ref = tildecomb;
+}
+);
+width = 621;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (52,133);
+ref = tildecomb;
+}
+);
+width = 579;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (52,142);
+ref = tildecomb;
+}
+);
+width = 589;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (53,150);
+ref = tildecomb;
+}
+);
+width = 596;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (58,159);
+ref = tildecomb;
+}
+);
+width = 609;
+}
+);
+unicode = 209;
+}

@@ -1,0 +1,1320 @@
+{
+.appVersion = "3337";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa F G Gbreve Gcommaaccent Gdotaccent Gmacron H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo Lcommaaccent.loclMAH Ncommaaccent.loclMAH A.salt B.salt D.salt H.salt I.salt";
+name = Uppercase;
+}
+);
+customParameters = (
+{
+name = "Name Table Entry";
+value = "13; This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
+date = "2025-01-05 18:12:01 +0000";
+familyName = "Winky Rough";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature sups;
+feature ordn;
+feature onum;
+feature case;
+feature salt;
+";
+tag = aalt;
+},
+{
+code = "script DFLT;
+language dflt;
+lookup SUB_0 {
+	sub one slash two by onehalf;
+	sub one slash four by onequarter;
+	sub three slash four by threequarters;
+} SUB_0;
+script grek;
+language dflt;
+lookup SUB_0;
+script latn;
+language dflt;
+lookup SUB_0;
+";
+disabled = 1;
+tag = frac;
+},
+{
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language MAH;
+lookup locl_latn_2 {
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero.lf by zero;
+sub one.lf by one;
+sub two.lf by two;
+sub three.lf by three;
+sub four.lf by four;
+sub five.lf by five;
+sub six.lf by six;
+sub seven.lf by seven;
+sub eight.lf by eight;
+sub nine.lf by nine;
+sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+";
+tag = onum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub zero.osf by zero.lf;
+sub one.osf by one.lf;
+sub two.osf by two.lf;
+sub three.osf by three.lf;
+sub four.osf by four.lf;
+sub five.osf by five.lf;
+sub six.osf by six.lf;
+sub seven.osf by seven.lf;
+sub eight.osf by eight.lf;
+sub nine.osf by nine.lf;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "sub A by A.salt;
+sub B by B.salt;
+sub D by D.salt;
+sub H by H.salt;
+sub I by I.salt;
+sub a by a.salt;
+sub e by e.salt;
+sub g by g.salt;
+sub y by y.salt;
+";
+tag = salt;
+},
+{
+code = "lookup uppercaseSharpS {
+    sub @Uppercase @Uppercase germandbls' by Germandbls;
+    sub germandbls' @Uppercase by Germandbls;
+} uppercaseSharpS;";
+disabled = 1;
+tag = calt;
+},
+{
+code = "sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub zero.osf by zero.lf;
+sub one.osf by one.lf;
+sub two.osf by two.lf;
+sub three.osf by three.lf;
+sub four.osf by four.lf;
+sub five.osf by five.lf;
+sub six.osf by six.lf;
+sub seven.osf by seven.lf;
+sub eight.osf by eight.lf;
+sub nine.osf by nine.lf;";
+disabled = 1;
+tag = lnum;
+}
+);
+fontMaster = (
+{
+axesValues = (
+300
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
+}
+);
+iconName = Light;
+id = m003;
+metricValues = (
+{
+over = 7;
+pos = 700;
+},
+{
+over = 7;
+pos = 667;
+},
+{
+over = 7;
+pos = 500;
+},
+{
+over = -7;
+},
+{
+over = -7;
+pos = -200;
+},
+{
+pos = 9;
+}
+);
+name = "Light Italic";
+userData = {
+GSCornerRadius = 7;
+GSOffsetHorizontal = -3;
+GSOffsetKeepCompatible = 1;
+GSOffsetProportional = 1;
+GSOffsetVertical = 8;
+GSRoughenHorizontal = 15;
+GSRoughenSegmentLength = 15;
+GSRoughenVertical = 10;
+KernOnAutokernedFrom = (
+WinkyRough.glyphspackage,
+Light
+);
+KernOnIndependentPairs = (
+"O O",
+"H H",
+"O N",
+"N O",
+"N H",
+"N N",
+"H N",
+"L L",
+"E N",
+"I H",
+"E D",
+"n n",
+"J i",
+"r quotedbl",
+"f y",
+"L E",
+"C R",
+"h o",
+"E J",
+"H y",
+"T U",
+"D A"
+);
+};
+visible = 1;
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
+}
+);
+id = m005;
+metricValues = (
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 667;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -200;
+},
+{
+pos = 9;
+}
+);
+name = Italic;
+userData = {
+GSCornerRadius = 10;
+GSOffsetHorizontal = 5;
+GSOffsetKeepCompatible = 1;
+GSOffsetProportional = 1;
+GSOffsetVertical = 8;
+GSRoughenHorizontal = 15;
+GSRoughenSegmentLength = 15;
+GSRoughenVertical = 10;
+KernOnAutokernedFrom = (
+WinkyRough.glyphspackage,
+Regular
+);
+KernOnIndependentPairs = (
+"o o",
+"h n",
+"n n",
+"n o",
+"O N",
+"N H",
+"N N",
+"N O"
+);
+};
+visible = 1;
+},
+{
+axesValues = (
+500
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
+}
+);
+id = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+metricValues = (
+{
+over = 13;
+pos = 700;
+},
+{
+over = 13;
+pos = 667;
+},
+{
+over = 13;
+pos = 500;
+},
+{
+over = -13;
+},
+{
+over = -13;
+pos = -200;
+},
+{
+pos = 9;
+}
+);
+name = "Medium Italic";
+userData = {
+GSRoughenHorizontal = 15;
+GSRoughenSegmentLength = 15;
+GSRoughenVertical = 10;
+KernOnAutokernedFrom = (
+WinkyRough.glyphspackage,
+Medium
+);
+KernOnIndependentPairs = (
+"n h",
+"O O",
+"O N",
+"N O",
+"N H",
+"N N"
+);
+};
+},
+{
+axesValues = (
+600
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
+}
+);
+iconName = SemiBold;
+id = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+metricValues = (
+{
+over = 16;
+pos = 700;
+},
+{
+over = 16;
+pos = 667;
+},
+{
+over = 16;
+pos = 500;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+},
+{
+pos = 9;
+}
+);
+name = "SemiBold Italic";
+userData = {
+GSRoughenHorizontal = 15;
+GSRoughenSegmentLength = 15;
+GSRoughenVertical = 10;
+KernOnAutokernedFrom = (
+WinkyRough.glyphspackage,
+SemiBold
+);
+KernOnIndependentPairs = (
+"O O",
+"O N",
+"N H",
+"N O",
+"N N"
+);
+};
+},
+{
+axesValues = (
+700
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
+}
+);
+iconName = Bold;
+id = "B734896E-9115-4752-AF37-164D25EC5193";
+metricValues = (
+{
+over = 19;
+pos = 700;
+},
+{
+over = 19;
+pos = 667;
+},
+{
+over = 19;
+pos = 500;
+},
+{
+over = -19;
+},
+{
+over = -19;
+pos = -200;
+},
+{
+pos = 9;
+}
+);
+name = "Bold Italic";
+userData = {
+GSRoughenHorizontal = 15;
+GSRoughenSegmentLength = 15;
+GSRoughenVertical = 10;
+KernOnAutokernedFrom = (
+WinkyRough.glyphspackage,
+Bold
+);
+KernOnIndependentPairs = (
+"O O",
+"O N",
+"N H",
+"N N",
+"N O"
+);
+};
+},
+{
+axesValues = (
+800
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
+}
+);
+id = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+metricValues = (
+{
+over = 22;
+pos = 700;
+},
+{
+over = 22;
+pos = 667;
+},
+{
+over = 22;
+pos = 500;
+},
+{
+over = -22;
+},
+{
+over = -22;
+pos = -200;
+},
+{
+pos = 9;
+}
+);
+name = "ExtraBold Italic";
+userData = {
+GSRoughenHorizontal = 15;
+GSRoughenSegmentLength = 15;
+GSRoughenVertical = 10;
+KernOnAutokernedFrom = (
+WinkyRough.glyphspackage,
+ExtraBold
+);
+KernOnIndependentPairs = (
+"h n",
+"O O",
+"N O",
+"N H",
+"N N",
+"O N"
+);
+};
+},
+{
+axesValues = (
+900
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = n;
+},
+{
+name = typoAscender;
+value = 1015;
+},
+{
+name = typoDescender;
+value = -315;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1015;
+},
+{
+name = hheaDescender;
+value = -315;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1057;
+},
+{
+name = winDescent;
+value = 430;
+}
+);
+id = m002;
+metricValues = (
+{
+over = 25;
+pos = 700;
+},
+{
+over = 25;
+pos = 667;
+},
+{
+over = 25;
+pos = 500;
+},
+{
+over = -25;
+},
+{
+over = -25;
+pos = -200;
+},
+{
+pos = 9;
+}
+);
+name = "Black Italic";
+userData = {
+GSCornerRadius = 10;
+GSOffsetHorizontal = 25;
+GSOffsetKeepCompatible = 1;
+GSOffsetProportional = 1;
+GSOffsetVertical = 0;
+GSRoughenHorizontal = 15;
+GSRoughenSegmentLength = 15;
+GSRoughenVertical = 10;
+KernOnAutokernedFrom = (
+WinkyRough.glyphspackage,
+Black
+);
+KernOnIndependentPairs = (
+"n n",
+"O O",
+"N H",
+"N O",
+"N N",
+"O N"
+);
+};
+visible = 1;
+}
+);
+instances = (
+{
+axesValues = (
+300
+);
+instanceInterpolations = {
+m003 = 1;
+};
+isItalic = 1;
+linkStyle = Light;
+name = "Light Italic";
+weightClass = 300;
+},
+{
+axesValues = (
+400
+);
+instanceInterpolations = {
+m005 = 1;
+};
+isItalic = 1;
+linkStyle = Regular;
+name = Italic;
+},
+{
+axesValues = (
+500
+);
+instanceInterpolations = {
+"27802CB9-B49D-4E25-883A-F5F5DC48409B" = 1;
+};
+isItalic = 1;
+linkStyle = Medium;
+name = "Medium Italic";
+weightClass = 500;
+},
+{
+axesValues = (
+600
+);
+instanceInterpolations = {
+"9BFA4F56-4850-48F5-A038-9DAB9408749E" = 1;
+};
+isItalic = 1;
+linkStyle = SemiBold;
+name = "SemiBold Italic";
+weightClass = 600;
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+"B734896E-9115-4752-AF37-164D25EC5193" = 1;
+};
+isBold = 1;
+isItalic = 1;
+linkStyle = Bold;
+name = "Bold Italic";
+weightClass = 700;
+},
+{
+axesValues = (
+800
+);
+instanceInterpolations = {
+"FC6EA5DF-75BF-4555-8471-DBE331F6C0F3" = 1;
+};
+isItalic = 1;
+linkStyle = ExtraBold;
+name = "ExtraBold Italic";
+weightClass = 800;
+},
+{
+axesValues = (
+900
+);
+instanceInterpolations = {
+m002 = 1;
+};
+isItalic = 1;
+linkStyle = Black;
+name = "Black Italic";
+weightClass = 900;
+}
+);
+kerningLTR = {
+m003 = {
+T = {
+U = 43;
+};
+f = {
+y = 0;
+};
+E = {
+D = 7;
+J = 0;
+N = 0;
+};
+J = {
+i = 0;
+};
+h = {
+o = 0;
+};
+n = {
+n = 0;
+};
+D = {
+A = 0;
+};
+O = {
+N = 0;
+O = 0;
+};
+r = {
+quotedbl = -38;
+};
+N = {
+H = 0;
+N = 0;
+O = 0;
+};
+C = {
+R = 0;
+};
+L = {
+E = 0;
+L = 40;
+};
+H = {
+H = 0;
+N = 0;
+y = 0;
+};
+I = {
+H = -3;
+};
+};
+m005 = {
+h = {
+n = 0;
+};
+n = {
+n = 0;
+o = 0;
+};
+O = {
+N = 0;
+};
+N = {
+H = 0;
+N = 0;
+O = 0;
+};
+o = {
+o = 0;
+};
+};
+"27802CB9-B49D-4E25-883A-F5F5DC48409B" = {
+n = {
+h = 0;
+};
+O = {
+N = 0;
+O = 0;
+};
+N = {
+H = 0;
+N = 0;
+O = 0;
+};
+};
+"9BFA4F56-4850-48F5-A038-9DAB9408749E" = {
+O = {
+N = 0;
+O = 0;
+};
+N = {
+H = 0;
+N = 0;
+O = 0;
+};
+};
+"B734896E-9115-4752-AF37-164D25EC5193" = {
+O = {
+N = 0;
+O = 0;
+};
+N = {
+H = 0;
+N = 0;
+O = 0;
+};
+};
+"FC6EA5DF-75BF-4555-8471-DBE331F6C0F3" = {
+h = {
+n = 0;
+};
+O = {
+N = 0;
+O = 0;
+};
+N = {
+H = 0;
+N = 0;
+O = 0;
+};
+};
+m002 = {
+n = {
+n = 0;
+};
+O = {
+N = 0;
+O = 0;
+};
+N = {
+H = 0;
+N = 0;
+O = 0;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+note = "Winky Sans wurde entwickelt aus der Aniva.
+Der Regular-Schnitt (400) entspricht der Aniva Medium (500).
+
+Eckenrundung 49 bei 100 Stammbreite, um zwei Punkte zu erhalten und Achse INKY mit weniger Rundung möglich zu machen.
+
+Nach der Rundung wurden die Enden verdickt, um den Effekt von sich sammelder Tinte zu simulieren.
+Die Kante wurden um 10 Einheiten nach außen verlegt und dann nach innen gewölbt.
+Für mehr Schwere unteren Rundungen wurden um 10 Einheiten verdickt.
+Die Rundungen an den Enden teilweise mehr gewölbt.
+Leichte Unregelmäßigkeiten und Asymmetrien sind gewollt.
+
+
+Name:
+Winky Sans - to wink = zwinkern / ink = Tinte
+
+Alternativen:
+Aniva Ink
+Aninka
+Katinka / Catinca
+Anico
+Anke
+Inka / Inko / Inke
+Ginko
+Blink
+Conic Sans
+Conni Sans
+Cosmic Sans
+Komisch Sans
+Octopus
+ups
+blot = Klecks
+inkblot = Tintenklecks
+Ink Hand
+Inky Sans
+Calamari
+Calmar Sans
+Calmo Sans
+
+
+Regular
+- Außenecken abrunden 49
+- Ankerpunkte ergänzen
+- unten 10 nach außen
+- Anker wieder nach innen für Innen-Wölbung
+- Unregelmäßigkeiten
+- Kopie
+- Form vereinen
+- Innen-Ecken abrunden 10
+
+Black
+- Verfetten 50
+- Höhe anpassen -35
+- Metrik aktualisieren
+- Innen-Ecken abrunden 50
+
+Thin
+- Verfetten -10
+- Höhe anpassen +7
+- Metrik aktualisieren
+- Innen-Ecken abrunden 7
+
+";
+properties = (
+{
+key = designers;
+values = (
+{
+language = DEU;
+value = "Simon Atzbach";
+}
+);
+},
+{
+key = designerURL;
+value = "https://typofactur.de";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "SIL Open Font License, Version 1.1. ";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
+},
+{
+key = manufacturers;
+values = (
+{
+language = DEU;
+value = typofactur;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://typofactur.de";
+},
+{
+key = vendorID;
+value = TYFA;
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"05E54F0F-8425-4B5B-B0EB-B578BBC85A7B" = {
+HH = "150";
+HV = "200";
+OH = "150";
+OV = "200";
+nV = "200";
+nd = "125";
+oH = "125";
+oV = "210";
+tH = "125";
+};
+"481D16E4-1E98-4559-AE79-559AF135D401" = {
+HH = "40";
+HV = "50";
+OH = "40";
+OV = "50";
+nV = "50";
+nd = "40";
+oH = "40";
+oV = "50";
+tH = "40";
+};
+m004 = {
+HH = "35";
+HV = "50";
+OH = "25";
+OV = "50";
+nV = "50";
+nd = "25";
+oH = "25";
+oV = "50";
+tH = "25";
+};
+m005 = {
+HH = "50";
+HV = "100";
+OH = "50";
+OV = "100";
+nV = "100";
+oH = "50";
+oV = "100";
+tH = "50";
+};
+m006 = {
+HH = "90";
+HV = "200";
+OH = "90";
+OV = "200";
+nV = "200";
+nd = "75";
+oH = "75";
+oV = "200";
+tH = "75";
+};
+m01 = {
+HH = "80";
+HV = "100";
+OH = "80";
+OV = "100";
+nV = "100";
+nd = "75";
+oH = "75";
+oV = "100";
+tH = "70";
+};
+};
+KernOnKerningWeightLimit = 36000;
+KernOnRegenerateGroups = 1;
+KernOnVersion = "1.33";
+};
+versionMajor = 1;
+versionMinor = 100;
+}

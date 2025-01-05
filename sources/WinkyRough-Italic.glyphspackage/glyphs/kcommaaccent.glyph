@@ -1,0 +1,99 @@
+{
+glyphname = kcommaaccent;
+kernLeft = KO_k;
+kernRight = KO_k;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (74,0);
+ref = commaaccentcomb;
+}
+);
+width = 498;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (35,0);
+ref = commaaccentcomb;
+}
+);
+width = 497;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (31,0);
+ref = commaaccentcomb;
+}
+);
+width = 526;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (34,0);
+ref = commaaccentcomb;
+}
+);
+width = 511;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (32,0);
+ref = commaaccentcomb;
+}
+);
+width = 516;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (31,0);
+ref = commaaccentcomb;
+}
+);
+width = 513;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (32,0);
+ref = commaaccentcomb;
+}
+);
+width = 516;
+}
+);
+unicode = 311;
+}

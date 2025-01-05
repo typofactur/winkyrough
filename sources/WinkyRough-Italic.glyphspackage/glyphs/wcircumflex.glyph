@@ -1,0 +1,99 @@
+{
+glyphname = wcircumflex;
+kernLeft = KO_w;
+kernRight = KO_w;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (163,0);
+ref = circumflexcomb;
+}
+);
+width = 693;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (156,0);
+ref = circumflexcomb;
+}
+);
+width = 684;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (177,0);
+ref = circumflexcomb;
+}
+);
+width = 729;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (154,0);
+ref = circumflexcomb;
+}
+);
+width = 692;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (169,0);
+ref = circumflexcomb;
+}
+);
+width = 707;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (175,0);
+ref = circumflexcomb;
+}
+);
+width = 713;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (170,0);
+ref = circumflexcomb;
+}
+);
+width = 720;
+}
+);
+unicode = 373;
+}

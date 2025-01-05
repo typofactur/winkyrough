@@ -1,0 +1,175 @@
+{
+glyphname = guilsinglright;
+kernLeft = KO_guillemotright;
+kernRight = KO_guillemotright;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (60,379);
+type = Stem;
+},
+{
+place = (80,190);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (237,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 237;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (60,379);
+type = Stem;
+},
+{
+place = (80,190);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (324,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 327;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (60,379);
+type = Stem;
+},
+{
+place = (80,190);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (239,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 239;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (60,379);
+type = Stem;
+},
+{
+place = (80,190);
+type = Stem;
+}
+);
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+alignment = -1;
+pos = (253,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 255;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (60,379);
+type = Stem;
+},
+{
+place = (80,190);
+type = Stem;
+}
+);
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+alignment = -1;
+pos = (283,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 273;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (60,379);
+type = Stem;
+},
+{
+place = (80,190);
+type = Stem;
+}
+);
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+alignment = -1;
+pos = (292,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 291;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (60,379);
+type = Stem;
+},
+{
+place = (80,190);
+type = Stem;
+}
+);
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+alignment = -1;
+pos = (311,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 309;
+}
+);
+metricLeft = "=guilsinglleft";
+metricRight = "=guilsinglleft";
+note = guilsinglright;
+unicode = 8250;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

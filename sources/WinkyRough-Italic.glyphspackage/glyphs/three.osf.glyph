@@ -1,0 +1,72 @@
+{
+glyphname = three.osf;
+kernLeft = KO_three;
+kernRight = KO_three;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+ref = three;
+}
+);
+width = 477;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = three;
+}
+);
+width = 531;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = three;
+}
+);
+width = 463;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = three;
+}
+);
+width = 484;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = three;
+}
+);
+width = 493;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = three;
+}
+);
+width = 506;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = three;
+}
+);
+width = 520;
+}
+);
+metricLeft = three;
+metricRight = three;
+}

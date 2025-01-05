@@ -1,0 +1,99 @@
+{
+glyphname = Nacute;
+kernLeft = KO_N;
+kernRight = KO_N;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (59,167);
+ref = acutecomb;
+}
+);
+width = 575;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (45,125);
+ref = acutecomb;
+}
+);
+width = 569;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (57,167);
+ref = acutecomb;
+}
+);
+width = 621;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (48,133);
+ref = acutecomb;
+}
+);
+width = 579;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (48,142);
+ref = acutecomb;
+}
+);
+width = 589;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (49,150);
+ref = acutecomb;
+}
+);
+width = 596;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (54,159);
+ref = acutecomb;
+}
+);
+width = 609;
+}
+);
+unicode = 323;
+}

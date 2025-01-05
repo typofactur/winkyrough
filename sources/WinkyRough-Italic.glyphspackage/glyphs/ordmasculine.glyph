@@ -1,0 +1,89 @@
+{
+glyphname = ordmasculine;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+pos = (52,452);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 255;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (51,450);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 255;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (50,443);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 265;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+pos = (51,449);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 257;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+pos = (51,448);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 259;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+pos = (51,446);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 261;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+pos = (51,445);
+ref = o;
+scale = (0.5,0.5);
+}
+);
+width = 263;
+}
+);
+unicode = 186;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
+}

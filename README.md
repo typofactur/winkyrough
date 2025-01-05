@@ -91,6 +91,11 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - dottedCircle added
 - no ligatures
 
+**05 January 2025. Version 1.100**
+- Italic added
+- glyphspackage instead of glyphs
+- kerning with Kern On
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

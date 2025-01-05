@@ -1,0 +1,99 @@
+{
+glyphname = ygrave;
+kernLeft = KO_y;
+kernRight = KO_y;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (60,0);
+ref = gravecomb;
+}
+);
+width = 472;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (60,0);
+ref = gravecomb;
+}
+);
+width = 481;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (73,0);
+ref = gravecomb;
+}
+);
+width = 500;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (63,0);
+ref = gravecomb;
+}
+);
+width = 483;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (66,0);
+ref = gravecomb;
+}
+);
+width = 487;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (68,0);
+ref = gravecomb;
+}
+);
+width = 493;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (71,0);
+ref = gravecomb;
+}
+);
+width = 494;
+}
+);
+unicode = 7923;
+}

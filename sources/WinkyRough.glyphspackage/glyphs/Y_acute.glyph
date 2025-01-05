@@ -1,0 +1,99 @@
+{
+glyphname = Yacute;
+kernLeft = KO_Y;
+kernRight = KO_Y;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (11,125);
+ref = acutecomb;
+}
+);
+width = 541;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (9,125);
+ref = acutecomb;
+}
+);
+width = 531;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (8,125);
+ref = acutecomb;
+}
+);
+width = 534;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (15,125);
+ref = acutecomb;
+}
+);
+width = 532;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (19,125);
+ref = acutecomb;
+}
+);
+width = 534;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (9,125);
+ref = acutecomb;
+}
+);
+width = 528;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (8,125);
+ref = acutecomb;
+}
+);
+width = 531;
+}
+);
+unicode = 221;
+}

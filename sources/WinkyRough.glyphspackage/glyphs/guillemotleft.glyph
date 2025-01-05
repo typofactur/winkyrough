@@ -1,0 +1,175 @@
+{
+glyphname = guillemotleft;
+kernLeft = KO_guillemotleft;
+kernRight = KO_guillemotleft;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (52,368);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (392,0);
+ref = guillemotright;
+scale = (-1,1);
+}
+);
+width = 392;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (52,368);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (579,0);
+ref = guillemotright;
+scale = (-1,1);
+}
+);
+width = 582;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (52,368);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (394,0);
+ref = guillemotright;
+scale = (-1,1);
+}
+);
+width = 394;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (52,368);
+type = Stem;
+}
+);
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+alignment = -1;
+pos = (428,0);
+ref = guillemotright;
+scale = (-1,1);
+}
+);
+width = 430;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (52,368);
+type = Stem;
+}
+);
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+alignment = -1;
+pos = (478,0);
+ref = guillemotright;
+scale = (-1,1);
+}
+);
+width = 468;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (52,368);
+type = Stem;
+}
+);
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+alignment = -1;
+pos = (507,0);
+ref = guillemotright;
+scale = (-1,1);
+}
+);
+width = 506;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (52,395);
+type = Stem;
+},
+{
+place = (52,368);
+type = Stem;
+}
+);
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+alignment = -1;
+pos = (546,0);
+ref = guillemotright;
+scale = (-1,1);
+}
+);
+width = 544;
+}
+);
+metricLeft = "=guillemotright";
+metricRight = "=guillemotright";
+note = guillemotleft;
+unicode = 171;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

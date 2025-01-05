@@ -1,0 +1,99 @@
+{
+glyphname = adieresis;
+kernLeft = KO_adieresis;
+kernRight = KO_a;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (21,0);
+ref = dieresiscomb;
+}
+);
+width = 516;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (19,0);
+ref = dieresiscomb;
+}
+);
+width = 513;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (22,0);
+ref = dieresiscomb;
+}
+);
+width = 524;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 519;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 520;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 519;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (20,0);
+ref = dieresiscomb;
+}
+);
+width = 518;
+}
+);
+unicode = 228;
+}

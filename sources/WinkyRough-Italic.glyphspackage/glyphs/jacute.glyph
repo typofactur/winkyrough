@@ -1,0 +1,97 @@
+{
+glyphname = jacute;
+kernRight = KO_jacute;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-62,0);
+ref = acutecomb;
+}
+);
+width = 247;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-65,0);
+ref = acutecomb;
+}
+);
+width = 245;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-63,0);
+ref = acutecomb;
+}
+);
+width = 247;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-72,0);
+ref = acutecomb;
+}
+);
+width = 238;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-74,0);
+ref = acutecomb;
+}
+);
+width = 234;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-78,0);
+ref = acutecomb;
+}
+);
+width = 231;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-70,0);
+ref = acutecomb;
+}
+);
+width = 239;
+}
+);
+}

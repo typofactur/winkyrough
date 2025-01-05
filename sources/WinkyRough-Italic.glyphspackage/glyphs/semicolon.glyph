@@ -1,0 +1,200 @@
+{
+glyphname = semicolon;
+kernLeft = KO_colon;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (16,121);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (-8,0);
+ref = comma;
+},
+{
+pos = (63,380);
+ref = period;
+}
+);
+width = 237;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (16,121);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (-9,0);
+ref = comma;
+},
+{
+pos = (56,340);
+ref = period;
+}
+);
+width = 236;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (17,121);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (-6,0);
+ref = comma;
+},
+{
+pos = (67,397);
+ref = period;
+}
+);
+width = 239;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (17,121);
+type = Stem;
+}
+);
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+alignment = -1;
+pos = (-7,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (62,372);
+ref = period;
+}
+);
+width = 238;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (16,121);
+type = Stem;
+}
+);
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+alignment = -1;
+pos = (-11,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (58,364);
+ref = period;
+}
+);
+width = 234;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (16,121);
+type = Stem;
+}
+);
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+alignment = -1;
+pos = (-11,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (58,356);
+ref = period;
+}
+);
+width = 234;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (16,121);
+type = Stem;
+}
+);
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+alignment = -1;
+pos = (-10,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (57,348);
+ref = period;
+}
+);
+width = 235;
+}
+);
+metricLeft = "=period";
+metricRight = "=comma";
+note = period;
+unicode = 59;
+userData = {
+KernOnName = semicolon;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

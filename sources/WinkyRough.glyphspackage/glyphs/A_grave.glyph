@@ -1,0 +1,99 @@
+{
+glyphname = Agrave;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (25,125);
+ref = gravecomb;
+}
+);
+width = 550;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (25,125);
+ref = gravecomb;
+}
+);
+width = 550;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (75,125);
+ref = gravecomb;
+}
+);
+width = 622;
+},
+{
+layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (35,125);
+ref = gravecomb;
+}
+);
+width = 564;
+},
+{
+layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (45,125);
+ref = gravecomb;
+}
+);
+width = 579;
+},
+{
+layerId = "B734896E-9115-4752-AF37-164D25EC5193";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (55,125);
+ref = gravecomb;
+}
+);
+width = 593;
+},
+{
+layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (65,125);
+ref = gravecomb;
+}
+);
+width = 608;
+}
+);
+unicode = 192;
+}
