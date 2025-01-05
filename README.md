@@ -54,6 +54,7 @@ But be careful! Like flowing ink on paper the forms grows in all directions. Whi
 
 ![Sample Image](documentation/winkyrough_cover.png)
 ![Sample Image](documentation/winkyrough_alphabet.png)
+![Sample Image](documentation/winkyroughitalic_alphabet.png)
 ![Sample Image](documentation/winkyrough_weights.png)
 ![Sample Image](documentation/winkyrough_driedink.png)
 ![Sample Image](documentation/winkyrough_friendly.png)
@@ -95,6 +96,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - Italic added
 - glyphspackage instead of glyphs
 - kerning with Kern On
+
 
 ## License
 
