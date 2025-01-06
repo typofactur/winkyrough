@@ -41,6 +41,7 @@ TEHLMDIV
 -J
 nifbid 
 nirlid 
-TEHEDIV "
+TEHEDIV ",
+L
 );
 }
