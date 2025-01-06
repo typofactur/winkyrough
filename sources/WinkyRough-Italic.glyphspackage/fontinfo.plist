@@ -944,6 +944,7 @@ axesValues = (
 instanceInterpolations = {
 "B734896E-9115-4752-AF37-164D25EC5193" = 1;
 };
+isBold = 1;
 isItalic = 1;
 linkStyle = Bold;
 name = "Bold Italic";
