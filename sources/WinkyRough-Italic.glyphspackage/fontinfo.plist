@@ -424,7 +424,7 @@ pos = -200;
 pos = 9;
 }
 );
-name = Italic;
+name = "Regular Italic";
 userData = {
 GSCornerRadius = 10;
 GSOffsetHorizontal = 5;
@@ -911,7 +911,7 @@ m005 = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
-name = Italic;
+name = "Regular Italic";
 },
 {
 axesValues = (
