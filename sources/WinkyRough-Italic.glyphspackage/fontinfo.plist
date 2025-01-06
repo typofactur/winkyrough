@@ -424,7 +424,7 @@ pos = -200;
 pos = 9;
 }
 );
-name = "Regular Italic";
+name = Italic;
 userData = {
 GSCornerRadius = 10;
 GSOffsetHorizontal = 5;
@@ -911,7 +911,7 @@ m005 = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
 axesValues = (
@@ -944,7 +944,6 @@ axesValues = (
 instanceInterpolations = {
 "B734896E-9115-4752-AF37-164D25EC5193" = 1;
 };
-isBold = 1;
 isItalic = 1;
 linkStyle = Bold;
 name = "Bold Italic";
