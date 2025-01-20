@@ -23,11 +23,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (11,0);
+pos = (70,0);
 ref = commaaccentcomb;
 }
 );
-width = 464;
+width = 553;
 },
 {
 layerId = m002;

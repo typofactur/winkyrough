@@ -69,6 +69,10 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **20 January 2025. Version 1.200**
 - reduced from 7 to 3 masters, fully interpolable
 
+**21 January 2025. Version 1.201**
+- dcroat
+- OE
+
 
 ## License
 

@@ -23,11 +23,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (-22,0);
+pos = (-25,0);
 ref = cedillacomb;
 }
 );
-width = 455;
+width = 457;
 },
 {
 layerId = m002;
