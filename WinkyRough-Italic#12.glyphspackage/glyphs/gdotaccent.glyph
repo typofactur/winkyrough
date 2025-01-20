@@ -1,0 +1,47 @@
+{
+glyphname = gdotaccent;
+kernLeft = KO_g;
+kernRight = KO_g;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (78,0);
+ref = dotaccentcomb;
+}
+);
+width = 518;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (62,0);
+ref = dotaccentcomb;
+}
+);
+width = 477;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (75,0);
+ref = dotaccentcomb;
+}
+);
+width = 523;
+}
+);
+unicode = 289;
+}

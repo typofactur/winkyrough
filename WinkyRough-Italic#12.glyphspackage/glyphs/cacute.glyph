@@ -1,0 +1,47 @@
+{
+glyphname = cacute;
+kernLeft = KO_c;
+kernRight = KO_c;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (70,0);
+ref = acutecomb;
+}
+);
+width = 398;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (57,0);
+ref = acutecomb;
+}
+);
+width = 395;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (73,0);
+ref = acutecomb;
+}
+);
+width = 452;
+}
+);
+unicode = 263;
+}

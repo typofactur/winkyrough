@@ -1,0 +1,47 @@
+{
+glyphname = amacron;
+kernLeft = KO_adieresis;
+kernRight = KO_a;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (77,0);
+ref = macroncomb;
+}
+);
+width = 516;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (69,0);
+ref = macroncomb;
+}
+);
+width = 480;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (77,0);
+ref = macroncomb;
+}
+);
+width = 523;
+}
+);
+unicode = 257;
+}

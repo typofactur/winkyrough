@@ -1,0 +1,47 @@
+{
+glyphname = Idotaccent;
+kernLeft = KO_I;
+kernRight = KO_I;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-10,125);
+ref = dotaccentcomb;
+}
+);
+width = 344;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-6,125);
+ref = dotaccentcomb;
+}
+);
+width = 333;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-8,125);
+ref = dotaccentcomb;
+}
+);
+width = 352;
+}
+);
+unicode = 304;
+}

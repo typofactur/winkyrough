@@ -1,0 +1,47 @@
+{
+glyphname = Lacute;
+kernLeft = KO_L;
+kernRight = KO_L;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (59,167);
+ref = acutecomb;
+}
+);
+width = 441;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (-4,167);
+ref = acutecomb;
+}
+);
+width = 375;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (79,167);
+ref = acutecomb;
+}
+);
+width = 526;
+}
+);
+unicode = 313;
+}

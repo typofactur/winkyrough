@@ -1,0 +1,105 @@
+{
+glyphname = quotedbl;
+kernLeft = KO_quotedbl;
+kernRight = KO_quotedbl;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (-25,62.5);
+type = Stem;
+},
+{
+place = (100,62.5);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (57,0);
+ref = quotesingle;
+},
+{
+pos = (208,0);
+ref = quotesingle;
+}
+);
+width = 325;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (-22,62.5);
+type = Stem;
+},
+{
+place = (103,62.5);
+type = Stem;
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (80,0);
+ref = quotesingle;
+},
+{
+pos = (281,0);
+ref = quotesingle;
+}
+);
+width = 399;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (500,200);
+type = Stem;
+},
+{
+place = (-25,62.5);
+type = Stem;
+},
+{
+place = (100,62.5);
+type = Stem;
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (87,0);
+ref = quotesingle;
+},
+{
+pos = (257,0);
+ref = quotesingle;
+}
+);
+width = 352;
+}
+);
+metricLeft = "=period";
+metricRight = "=period";
+note = quotedbl;
+unicode = 34;
+userData = {
+KernOnName = quotedbl;
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

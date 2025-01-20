@@ -1,0 +1,39 @@
+{
+glyphname = five.lf;
+kernLeft = KO_five.lf;
+kernRight = KO_five.lf;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+pos = (11,67);
+ref = five;
+}
+);
+width = 510;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (11,67);
+ref = five;
+}
+);
+width = 558;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (11,67);
+ref = five;
+}
+);
+width = 519;
+}
+);
+metricLeft = five;
+metricRight = five;
+}

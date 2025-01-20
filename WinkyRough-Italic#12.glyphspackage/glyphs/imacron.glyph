@@ -1,0 +1,47 @@
+{
+glyphname = imacron;
+kernLeft = KO_imacron;
+kernRight = KO_imacron;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-61,0);
+ref = macroncomb;
+}
+);
+width = 243;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-82,0);
+ref = macroncomb;
+}
+);
+width = 197;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-62,0);
+ref = macroncomb;
+}
+);
+width = 245;
+}
+);
+unicode = 299;
+}

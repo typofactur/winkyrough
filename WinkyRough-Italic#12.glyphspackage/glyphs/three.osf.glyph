@@ -1,0 +1,36 @@
+{
+glyphname = three.osf;
+kernLeft = KO_three;
+kernRight = KO_three;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+ref = three;
+}
+);
+width = 468;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = three;
+}
+);
+width = 531;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = three;
+}
+);
+width = 467;
+}
+);
+metricLeft = three;
+metricRight = three;
+}

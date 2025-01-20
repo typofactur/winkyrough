@@ -1,0 +1,47 @@
+{
+glyphname = scedilla;
+kernLeft = KO_s;
+kernRight = KO_s;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-128,0);
+ref = cedillacomb;
+}
+);
+width = 399;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-123,0);
+ref = cedillacomb;
+}
+);
+width = 400;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-105,0);
+ref = cedillacomb;
+}
+);
+width = 450;
+}
+);
+unicode = 351;
+}

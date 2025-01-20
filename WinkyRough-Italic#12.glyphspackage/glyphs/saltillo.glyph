@@ -1,0 +1,39 @@
+{
+glyphname = saltillo;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+pos = (-96,0);
+ref = caroncomb.alt;
+slant = (9,0);
+}
+);
+width = 218;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (-96,0);
+ref = caroncomb.alt;
+slant = (9,0);
+}
+);
+width = 218;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (-96,0);
+ref = caroncomb.alt;
+slant = (9,0);
+}
+);
+width = 168;
+}
+);
+unicode = 42892;
+}

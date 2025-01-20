@@ -1,0 +1,47 @@
+{
+glyphname = wdieresis;
+kernLeft = KO_w;
+kernRight = KO_w;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (175,0);
+ref = dieresiscomb;
+}
+);
+width = 693;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (199,0);
+ref = dieresiscomb;
+}
+);
+width = 679;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (190,0);
+ref = dieresiscomb;
+}
+);
+width = 729;
+}
+);
+unicode = 7813;
+}

@@ -66,6 +66,9 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - kerning with Kern On
 - L
 
+**20 January 2025. Version 1.200**
+- reduced from 7 to 3 masters, fully interpolable
+
 
 ## License
 

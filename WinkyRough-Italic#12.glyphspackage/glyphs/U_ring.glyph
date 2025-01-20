@@ -1,0 +1,47 @@
+{
+glyphname = Uring;
+kernLeft = KO_U;
+kernRight = KO_U;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (49,125);
+ref = ringcomb;
+}
+);
+width = 520;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (88,125);
+ref = ringcomb;
+}
+);
+width = 495;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (124,125);
+ref = ringcomb;
+}
+);
+width = 614;
+}
+);
+unicode = 366;
+}
