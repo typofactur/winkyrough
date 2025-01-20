@@ -14,15 +14,15 @@ place = (295,120);
 type = Stem;
 },
 {
-place = (72,100);
+place = (46,100);
 type = Stem;
 },
 {
-place = (187,120);
+place = (161,120);
 type = Stem;
 },
 {
-place = (204,93);
+place = (178,93);
 type = Stem;
 }
 );
@@ -30,11 +30,11 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (355,500);
+pos = (346,500);
 ref = question;
 }
 );
-width = 368;
+width = 348;
 },
 {
 hints = (
@@ -49,15 +49,15 @@ place = (295,120);
 type = Stem;
 },
 {
-place = (72,100);
+place = (46,100);
 type = Stem;
 },
 {
-place = (187,120);
+place = (161,120);
 type = Stem;
 },
 {
-place = (204,93);
+place = (178,93);
 type = Stem;
 }
 );
@@ -84,15 +84,15 @@ place = (295,120);
 type = Stem;
 },
 {
-place = (72,100);
+place = (46,100);
 type = Stem;
 },
 {
-place = (187,120);
+place = (161,120);
 type = Stem;
 },
 {
-place = (204,93);
+place = (178,93);
 type = Stem;
 }
 );
@@ -100,155 +100,11 @@ layerId = m003;
 shapes = (
 {
 angle = 180;
-pos = (345,500);
+pos = (349,500);
 ref = question;
 }
 );
-width = 345;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-257,70);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (295,120);
-type = Stem;
-},
-{
-place = (72,100);
-type = Stem;
-},
-{
-place = (187,120);
-type = Stem;
-},
-{
-place = (204,93);
-type = Stem;
-}
-);
-layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (371,500);
-ref = question;
-}
-);
-width = 385;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-257,70);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (295,120);
-type = Stem;
-},
-{
-place = (72,100);
-type = Stem;
-},
-{
-place = (187,120);
-type = Stem;
-},
-{
-place = (204,93);
-type = Stem;
-}
-);
-layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (385,500);
-ref = question;
-}
-);
-width = 399;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-257,70);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (295,120);
-type = Stem;
-},
-{
-place = (72,100);
-type = Stem;
-},
-{
-place = (187,120);
-type = Stem;
-},
-{
-place = (204,93);
-type = Stem;
-}
-);
-layerId = "B734896E-9115-4752-AF37-164D25EC5193";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (395,500);
-ref = question;
-}
-);
-width = 409;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-257,70);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (295,120);
-type = Stem;
-},
-{
-place = (72,100);
-type = Stem;
-},
-{
-place = (187,120);
-type = Stem;
-},
-{
-place = (204,93);
-type = Stem;
-}
-);
-layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (404,500);
-ref = question;
-}
-);
-width = 417;
+width = 363;
 }
 );
 metricLeft = "=|S";

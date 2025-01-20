@@ -7,20 +7,21 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = (461,-395);
+place = (52,395);
 type = Stem;
 },
 {
-place = (52,368);
+place = (11,368);
 type = Stem;
 }
 );
 layerId = m005;
 shapes = (
 {
-angle = 180;
-pos = (392,513);
+pos = (334,0);
 ref = guillemotright;
+scale = (-1,1);
+slant = (17.5766,0);
 }
 );
 width = 392;
@@ -29,137 +30,47 @@ width = 392;
 hints = (
 {
 horizontal = 1;
-place = (457,-395);
+place = (52,395);
 type = Stem;
 },
 {
-place = (52,368);
+place = (12,368);
 type = Stem;
 }
 );
 layerId = m002;
 shapes = (
 {
-angle = 180;
-pos = (578,509);
+pos = (521,0);
 ref = guillemotright;
+scale = (-1,1);
+slant = (17.5766,0);
 }
 );
-width = 581;
+width = 606;
 },
 {
 hints = (
 {
 horizontal = 1;
-place = (454,-395);
+place = (52,395);
 type = Stem;
 },
 {
-place = (52,368);
+place = (12,368);
 type = Stem;
 }
 );
 layerId = m003;
 shapes = (
 {
-angle = 180;
-pos = (397,506);
+pos = (339,0);
 ref = guillemotright;
+scale = (-1,1);
+slant = (17.5766,0);
 }
 );
-width = 394;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (456,-395);
-type = Stem;
-},
-{
-place = (52,368);
-type = Stem;
-}
-);
-layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (429,508);
-ref = guillemotright;
-}
-);
-width = 430;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (461,-395);
-type = Stem;
-},
-{
-place = (52,368);
-type = Stem;
-}
-);
-layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (477,513);
-ref = guillemotright;
-}
-);
-width = 467;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (459,-395);
-type = Stem;
-},
-{
-place = (52,368);
-type = Stem;
-}
-);
-layerId = "B734896E-9115-4752-AF37-164D25EC5193";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (507,511);
-ref = guillemotright;
-}
-);
-width = 506;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (457,-395);
-type = Stem;
-},
-{
-place = (52,368);
-type = Stem;
-}
-);
-layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (546,509);
-ref = guillemotright;
-}
-);
-width = 544;
+width = 418;
 }
 );
 metricLeft = "=guillemotright";

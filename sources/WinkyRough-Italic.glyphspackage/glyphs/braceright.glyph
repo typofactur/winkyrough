@@ -5,62 +5,64 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = (749,-57);
+place = (-67,57);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (369,-50);
+place = (313,50);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (5,-57);
+place = (677,57);
 type = Stem;
 },
 {
-place = (184,72);
+place = (130,72);
 type = Stem;
 }
 );
 layerId = m005;
 shapes = (
 {
-angle = 180;
-pos = (438,682);
+pos = (291,0);
 ref = braceleft;
+scale = (-1,1);
+slant = (17.5766,0);
 }
 );
-width = 411;
+width = 392;
 },
 {
 hints = (
 {
 horizontal = 1;
-place = (739,-57);
+place = (-67,57);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (359,-50);
+place = (313,50);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (-5,-57);
+place = (677,57);
 type = Stem;
 },
 {
-place = (184,72);
+place = (131,72);
 type = Stem;
 }
 );
 layerId = m002;
 shapes = (
 {
-angle = 180;
-pos = (465,672);
+pos = (358,0);
 ref = braceleft;
+scale = (-1,1);
+slant = (17.5766,0);
 }
 );
 width = 435;
@@ -69,165 +71,34 @@ width = 435;
 hints = (
 {
 horizontal = 1;
-place = (748,-57);
+place = (-67,57);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (368,-50);
+place = (313,50);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (4,-57);
+place = (677,57);
 type = Stem;
 },
 {
-place = (184,72);
+place = (76,72);
 type = Stem;
 }
 );
 layerId = m003;
 shapes = (
 {
-angle = 180;
-pos = (435,681);
+pos = (327,0);
 ref = braceleft;
+scale = (-1,1);
+slant = (17.5766,0);
 }
 );
-width = 409;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (745,-57);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (365,-50);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (1,-57);
-type = Stem;
-},
-{
-place = (184,72);
-type = Stem;
-}
-);
-layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (445,678);
-ref = braceleft;
-}
-);
-width = 419;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (748,-57);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (368,-50);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (4,-57);
-type = Stem;
-},
-{
-place = (184,72);
-type = Stem;
-}
-);
-layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (456,681);
-ref = braceleft;
-}
-);
-width = 429;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (748,-57);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (368,-50);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (4,-57);
-type = Stem;
-},
-{
-place = (184,72);
-type = Stem;
-}
-);
-layerId = "B734896E-9115-4752-AF37-164D25EC5193";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (457,681);
-ref = braceleft;
-}
-);
-width = 430;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (744,-57);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (364,-50);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (0,-57);
-type = Stem;
-},
-{
-place = (184,72);
-type = Stem;
-}
-);
-layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (457,677);
-ref = braceleft;
-}
-);
-width = 433;
+width = 408;
 }
 );
 metricLeft = "=n/2";

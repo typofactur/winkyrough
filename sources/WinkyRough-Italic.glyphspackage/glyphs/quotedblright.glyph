@@ -16,11 +16,11 @@ place = (670,35);
 type = Stem;
 },
 {
-place = (45,51);
+place = (-49,51);
 type = Stem;
 },
 {
-place = (221,51);
+place = (127,51);
 type = Stem;
 }
 );
@@ -47,11 +47,11 @@ place = (670,35);
 type = Stem;
 },
 {
-place = (45,51);
+place = (-52,51);
 type = Stem;
 },
 {
-place = (221,51);
+place = (124,51);
 type = Stem;
 }
 );
@@ -78,145 +78,17 @@ place = (670,35);
 type = Stem;
 },
 {
-place = (45,51);
+place = (-47,51);
 type = Stem;
 },
 {
-place = (221,51);
+place = (129,51);
 type = Stem;
 }
 );
 layerId = m003;
 shapes = (
 {
-angle = 180;
-pos = (440,1160);
-ref = quotedblleft;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (440,120);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (670,35);
-type = Stem;
-},
-{
-place = (45,51);
-type = Stem;
-},
-{
-place = (221,51);
-type = Stem;
-}
-);
-layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (440,1160);
-ref = quotedblleft;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (440,120);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (670,35);
-type = Stem;
-},
-{
-place = (45,51);
-type = Stem;
-},
-{
-place = (221,51);
-type = Stem;
-}
-);
-layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (440,1160);
-ref = quotedblleft;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (440,120);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (670,35);
-type = Stem;
-},
-{
-place = (45,51);
-type = Stem;
-},
-{
-place = (221,51);
-type = Stem;
-}
-);
-layerId = "B734896E-9115-4752-AF37-164D25EC5193";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (440,1160);
-ref = quotedblleft;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (440,120);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (670,35);
-type = Stem;
-},
-{
-place = (45,51);
-type = Stem;
-},
-{
-place = (221,51);
-type = Stem;
-}
-);
-layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
-shapes = (
-{
-alignment = -1;
 angle = 180;
 pos = (440,1160);
 ref = quotedblleft;

@@ -15,25 +15,26 @@ place = (-5,120);
 type = Stem;
 },
 {
-place = (125,51);
+place = (126,51);
 type = Stem;
 },
 {
-place = (301,51);
+place = (302,51);
 type = Stem;
 }
 );
 layerId = m005;
 shapes = (
 {
+pos = (-45,0);
 ref = comma;
 },
 {
-pos = (195,0);
+pos = (150,0);
 ref = comma;
 }
 );
-width = 440;
+width = 433;
 },
 {
 hints = (
@@ -48,11 +49,11 @@ place = (-5,120);
 type = Stem;
 },
 {
-place = (125,51);
+place = (123,51);
 type = Stem;
 },
 {
-place = (301,51);
+place = (299,51);
 type = Stem;
 }
 );
@@ -81,11 +82,11 @@ place = (-5,120);
 type = Stem;
 },
 {
-place = (125,51);
+place = (128,51);
 type = Stem;
 },
 {
-place = (301,51);
+place = (304,51);
 type = Stem;
 }
 );
@@ -95,146 +96,6 @@ shapes = (
 ref = comma;
 },
 {
-pos = (195,0);
-ref = comma;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-150,35);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-5,120);
-type = Stem;
-},
-{
-place = (125,51);
-type = Stem;
-},
-{
-place = (301,51);
-type = Stem;
-}
-);
-layerId = "27802CB9-B49D-4E25-883A-F5F5DC48409B";
-shapes = (
-{
-alignment = -1;
-ref = comma;
-},
-{
-alignment = -1;
-pos = (195,0);
-ref = comma;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-150,35);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-5,120);
-type = Stem;
-},
-{
-place = (125,51);
-type = Stem;
-},
-{
-place = (301,51);
-type = Stem;
-}
-);
-layerId = "9BFA4F56-4850-48F5-A038-9DAB9408749E";
-shapes = (
-{
-alignment = -1;
-ref = comma;
-},
-{
-alignment = -1;
-pos = (195,0);
-ref = comma;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-150,35);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-5,120);
-type = Stem;
-},
-{
-place = (125,51);
-type = Stem;
-},
-{
-place = (301,51);
-type = Stem;
-}
-);
-layerId = "B734896E-9115-4752-AF37-164D25EC5193";
-shapes = (
-{
-alignment = -1;
-ref = comma;
-},
-{
-alignment = -1;
-pos = (195,0);
-ref = comma;
-}
-);
-width = 440;
-},
-{
-hints = (
-{
-horizontal = 1;
-place = (-150,35);
-type = Stem;
-},
-{
-horizontal = 1;
-place = (-5,120);
-type = Stem;
-},
-{
-place = (125,51);
-type = Stem;
-},
-{
-place = (301,51);
-type = Stem;
-}
-);
-layerId = "FC6EA5DF-75BF-4555-8471-DBE331F6C0F3";
-shapes = (
-{
-alignment = -1;
-ref = comma;
-},
-{
-alignment = -1;
 pos = (195,0);
 ref = comma;
 }
