@@ -35,11 +35,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-50,0);
+pos = (-70,0);
 ref = acutecomb;
 }
 );
-width = 243;
+width = 239;
 }
 );
 }

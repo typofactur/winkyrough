@@ -19,7 +19,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 541;
+width = 555;
 },
 {
 layerId = m002;
@@ -28,7 +28,7 @@ shapes = (
 ref = Eth;
 }
 );
-width = 619;
+width = 621;
 }
 );
 unicode = 272;
