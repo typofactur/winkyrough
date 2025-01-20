@@ -26,7 +26,7 @@ familyName: "WinkyRough"
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.
 
-buildVariable: false
+buildVariable: true
 buildStatic: true
 buildTTF: true
 buildOTF: false
@@ -40,7 +40,7 @@ autohintTTF: true
 # The "fix" operation can optionally fix some problems which
 # are better dealt with in the font sources. Set this to true if you
 # want gftools-fix to automatically fix source problems.
-# includeSourceFixes: false
+includeSourceFixes: true
 
 # These options give fine-grained control over how fontmake builds
 # the fonts.
@@ -62,4 +62,56 @@ autohintTTF: true
 # list which is used for all VFs. Note that the build will fail
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
-
+stat:
+  WinkyRough[wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
+        - name: Light
+          value: 300
+        - name: Regular
+          value: 400
+          linkedValue: 700
+          flags: 2
+        - name: Medium
+          value: 500
+        - name: SemiBold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: ExtraBold
+          value: 800
+        - name: Black
+          value: 900
+    - name: Italic
+      tag: ital
+      values:
+        - name: Roman
+          value: 0
+          linkedValue: 1
+          flags: 2
+  WinkyRough-Italic[wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
+        - name: Light
+          value: 300
+        - name: Regular
+          value: 400
+          linkedValue: 700
+          flags: 2
+        - name: Medium
+          value: 500
+        - name: SemiBold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: ExtraBold
+          value: 800
+        - name: Black
+          value: 900
+    - name: Italic
+      tag: ital
+      values:
+        - name: Italic
+          value: 1
