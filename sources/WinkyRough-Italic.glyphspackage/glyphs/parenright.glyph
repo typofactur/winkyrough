@@ -7,13 +7,13 @@ layers = (
 layerId = m005;
 shapes = (
 {
-pos = (211,0);
+pos = (250,0);
 ref = parenleft;
 scale = (-1,1);
 slant = (17.5766,0);
 }
 );
-width = 311;
+width = 331;
 },
 {
 layerId = m002;

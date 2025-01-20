@@ -18,17 +18,17 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (-17,0);
+pos = (-18,0);
 ref = guilsinglright;
 slant = (9,0);
 },
 {
-pos = (138,0);
+pos = (137,0);
 ref = guilsinglright;
 slant = (9,0);
 }
 );
-width = 392;
+width = 414;
 },
 {
 hints = (
@@ -45,12 +45,12 @@ type = Stem;
 layerId = m002;
 shapes = (
 {
-pos = (-17,0);
+pos = (-16,0);
 ref = guilsinglright;
 slant = (9,0);
 },
 {
-pos = (238,0);
+pos = (239,0);
 ref = guilsinglright;
 slant = (9,0);
 }
@@ -72,12 +72,12 @@ type = Stem;
 layerId = m003;
 shapes = (
 {
-pos = (-16,0);
+pos = (-17,0);
 ref = guilsinglright;
 slant = (9,0);
 },
 {
-pos = (139,0);
+pos = (138,0);
 ref = guilsinglright;
 slant = (9,0);
 }

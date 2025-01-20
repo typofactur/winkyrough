@@ -23,11 +23,11 @@ shapes = (
 ref = dotlessi;
 },
 {
-pos = (-86,0);
+pos = (-60,0);
 ref = circumflexcomb;
 }
 );
-width = 197;
+width = 249;
 },
 {
 layerId = m002;

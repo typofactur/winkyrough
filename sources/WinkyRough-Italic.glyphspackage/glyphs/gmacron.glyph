@@ -22,11 +22,11 @@ shapes = (
 ref = g;
 },
 {
-pos = (64,0);
+pos = (71,0);
 ref = macroncomb;
 }
 );
-width = 477;
+width = 510;
 },
 {
 layerId = m002;

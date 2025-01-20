@@ -35,7 +35,7 @@ shapes = (
 ref = six;
 }
 );
-width = 531;
+width = 534;
 },
 {
 hints = (

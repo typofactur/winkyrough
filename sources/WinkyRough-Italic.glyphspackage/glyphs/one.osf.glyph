@@ -10,7 +10,7 @@ shapes = (
 ref = one;
 }
 );
-width = 385;
+width = 384;
 },
 {
 layerId = m002;

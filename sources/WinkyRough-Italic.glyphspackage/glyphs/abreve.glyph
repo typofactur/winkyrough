@@ -23,11 +23,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (108,0);
+pos = (115,0);
 ref = brevecomb;
 }
 );
-width = 480;
+width = 513;
 },
 {
 layerId = m002;

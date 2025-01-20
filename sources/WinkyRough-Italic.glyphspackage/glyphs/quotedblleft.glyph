@@ -23,15 +23,15 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (244,0);
+pos = (240,0);
 ref = quoteleft;
 },
 {
-pos = (49,0);
+pos = (45,0);
 ref = quoteleft;
 }
 );
-width = 440;
+width = 447;
 },
 {
 hints = (
@@ -53,11 +53,10 @@ type = Stem;
 layerId = m002;
 shapes = (
 {
-pos = (281,0);
+pos = (195,0);
 ref = quoteleft;
 },
 {
-pos = (86,0);
 ref = quoteleft;
 }
 );
@@ -83,11 +82,10 @@ type = Stem;
 layerId = m003;
 shapes = (
 {
-pos = (295,0);
+pos = (195,0);
 ref = quoteleft;
 },
 {
-pos = (100,0);
 ref = quoteleft;
 }
 );

@@ -24,12 +24,12 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (287,560);
+pos = (332,560);
 ref = comma;
 slant = (9,0);
 }
 );
-width = 245;
+width = 252;
 },
 {
 hints = (

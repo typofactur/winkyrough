@@ -22,11 +22,10 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (-45,0);
 ref = comma;
 }
 );
-width = 238;
+width = 245;
 },
 {
 hints = (

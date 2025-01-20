@@ -19,12 +19,12 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (475,500);
+pos = (488,500);
 ref = e.salt;
 slant = (9,0);
 }
 );
-width = 475;
+width = 488;
 },
 {
 layerId = m002;

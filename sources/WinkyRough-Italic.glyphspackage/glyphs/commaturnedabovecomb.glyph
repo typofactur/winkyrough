@@ -27,23 +27,23 @@ width = 255;
 anchors = (
 {
 name = _top;
-pos = (160,500);
+pos = (205,500);
 },
 {
 name = top;
-pos = (212,828);
+pos = (257,828);
 }
 );
 layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (306,680);
+pos = (351,680);
 ref = comma;
 slant = (9,0);
 }
 );
-width = 245;
+width = 252;
 },
 {
 anchors = (

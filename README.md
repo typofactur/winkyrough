@@ -73,6 +73,9 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - dcroat
 - OE
 
+**21 January 2025. Version 1.202**
+- semicolon
+
 
 ## License
 

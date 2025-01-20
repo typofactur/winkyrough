@@ -33,11 +33,11 @@ layerId = m005;
 shapes = (
 {
 alignment = -1;
-pos = (27,67);
+pos = (36,67);
 ref = nine;
 }
 );
-width = 525;
+width = 528;
 },
 {
 hints = (

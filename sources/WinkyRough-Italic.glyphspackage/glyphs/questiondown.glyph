@@ -30,11 +30,11 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (346,500);
+pos = (355,500);
 ref = question;
 }
 );
-width = 348;
+width = 368;
 },
 {
 hints = (

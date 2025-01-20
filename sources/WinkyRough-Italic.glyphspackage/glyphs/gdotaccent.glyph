@@ -23,11 +23,11 @@ shapes = (
 ref = g;
 },
 {
-pos = (62,0);
+pos = (69,0);
 ref = dotaccentcomb;
 }
 );
-width = 477;
+width = 510;
 },
 {
 layerId = m002;

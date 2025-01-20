@@ -26,15 +26,14 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (-45,0);
 ref = comma;
 },
 {
-pos = (150,0);
+pos = (195,0);
 ref = comma;
 }
 );
-width = 433;
+width = 440;
 },
 {
 hints = (

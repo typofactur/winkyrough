@@ -18,15 +18,14 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (31,380);
+pos = (60,380);
 ref = period;
 },
 {
-pos = (-29,0);
 ref = period;
 }
 );
-width = 218;
+width = 220;
 },
 {
 hints = (

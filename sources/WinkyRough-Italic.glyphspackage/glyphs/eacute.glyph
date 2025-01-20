@@ -23,11 +23,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (61,0);
+pos = (68,0);
 ref = acutecomb;
 }
 );
-width = 470;
+width = 483;
 },
 {
 layerId = m002;
