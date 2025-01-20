@@ -1,7 +1,7 @@
 ----
 
 
-# My Font
+# Winky Rough
 
 [![][Fontbakery]](https://typofactur.github.io/winkyrough/fontbakery/fontbakery-report.html)
 [![][Universal]](https://typofactur.github.io/winkyrough/fontbakery/fontbakery-report.html)
@@ -16,8 +16,7 @@
 
 Winky Rough is the roughed variant of Winky Sans (https://github.com/typofactur/winkysans) imitating handwriting and dried ink on rough paper.
 
-Unlike its counterpart Winky Sans, Winky Rough is not a variable font (yet). 
-Winky Rough is available in seven weights from Light (300) to Black (900) and matching italic styles.
+Winky Rough is a variable font with a weight axis that ranges from Light (300) to Black (900) and has matching italic styles.
 Watch out! Like flowing ink on paper the forms grows in all directions. While the slim weights might have been written with a fineliner, the black style look like ink blots from a broken pen.
 
 ![Sample Image](documentation/winkyrough_cover.png)
