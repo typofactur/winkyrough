@@ -83,7 +83,9 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - dotaccentcomb bigger
 - hungarumlautcomb: thicker and position
 - spacing: 4, A, V, Y, quotedblright
-- decomposed italic components: exclamdown, questiondown, parenright, braceright, guillemotleft, guillemotright, guilsingleright, quotedbleft, quotedblrigt, quoteleft, quoteright
+
+**26 January 2025. Version 1.204**
+- italic angle: decomposed components: exclamdown, questiondown, parenright, braceright, guillemotleft, guillemotright, guilsingleright, quotedbleft, quotedblrigt, quoteleft, quoteright, backslash
 - position quotes
 
 

@@ -371,7 +371,7 @@ nodes = (
 );
 }
 );
-width = 435;
+width = 434;
 },
 {
 hints = (
@@ -557,7 +557,7 @@ nodes = (
 );
 }
 );
-width = 408;
+width = 409;
 }
 );
 metricLeft = "=n/2";
