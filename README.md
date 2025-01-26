@@ -82,7 +82,10 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - ogonekcomb thicker
 - dotaccentcomb bigger
 - hungarumlautcomb: thicker and position
-- spacing: 4, A, V, Y
+- spacing: 4, A, V, Y, quotedblright
+- decomposed italic components: exclamdown, questiondown, parenright, braceright, guillemotleft, guillemotright, guilsingleright, quotedbleft, quotedblrigt, quoteleft, quoteright
+- position quotes
+
 
 ## License
 

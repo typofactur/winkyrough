@@ -24,7 +24,7 @@ layerId = m005;
 shapes = (
 {
 angle = 180;
-pos = (239,560);
+pos = (239,580);
 ref = comma;
 }
 );
@@ -51,7 +51,7 @@ layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (248,560);
+pos = (248,620);
 ref = comma;
 }
 );
