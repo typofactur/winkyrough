@@ -10,7 +10,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (96,125);
+pos = (116,125);
 ref = gravecomb;
 }
 );

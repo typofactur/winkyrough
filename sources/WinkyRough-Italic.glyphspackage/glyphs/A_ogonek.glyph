@@ -10,7 +10,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (-12,10);
+pos = (8,10);
 ref = ogonekcomb;
 }
 );

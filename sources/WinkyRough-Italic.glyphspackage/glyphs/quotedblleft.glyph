@@ -23,11 +23,10 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
-pos = (240,0);
+pos = (195,0);
 ref = quoteleft;
 },
 {
-pos = (45,0);
 ref = quoteleft;
 }
 );

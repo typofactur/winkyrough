@@ -10,7 +10,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (137,125);
+pos = (157,125);
 ref = brevecomb;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (137,125);
+pos = (140,125);
 ref = brevecomb;
 }
 );

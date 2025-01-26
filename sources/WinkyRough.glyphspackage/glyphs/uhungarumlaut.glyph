@@ -10,7 +10,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (79,0);
+pos = (80,0);
 ref = hungarumlautcomb;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (79,0);
+pos = (78,0);
 ref = hungarumlautcomb;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (63,0);
+pos = (56,0);
 ref = hungarumlautcomb;
 }
 );

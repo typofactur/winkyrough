@@ -10,7 +10,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (96,125);
+pos = (106,125);
 ref = dieresiscomb;
 }
 );
@@ -36,11 +36,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (94,125);
+pos = (114,125);
 ref = dieresiscomb;
 }
 );
-width = 535;
+width = 555;
 }
 );
 unicode = 376;

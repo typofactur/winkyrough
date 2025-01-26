@@ -10,7 +10,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (84,125);
+pos = (94,125);
 ref = circumflexcomb;
 }
 );
@@ -36,11 +36,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (81,125);
+pos = (101,125);
 ref = circumflexcomb;
 }
 );
-width = 535;
+width = 555;
 }
 );
 unicode = 374;

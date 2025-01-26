@@ -10,7 +10,7 @@ pos = (0,67);
 ref = four;
 }
 );
-width = 520;
+width = 547;
 },
 {
 layerId = m002;
@@ -20,7 +20,7 @@ pos = (0,67);
 ref = four;
 }
 );
-width = 614;
+width = 592;
 },
 {
 layerId = m003;
@@ -30,7 +30,7 @@ pos = (0,67);
 ref = four;
 }
 );
-width = 529;
+width = 556;
 }
 );
 metricLeft = four;

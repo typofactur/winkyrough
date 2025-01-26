@@ -75,6 +75,14 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **21 January 2025. Version 1.202**
 - semicolon
 
+**26 January 2025. Version 1.203**
+- startpoints: plusminus, W, gravecomb, euro, AE, I, ae, B, baht, perthousand, R, dollar, j, degree, caroncomb.alt, w, Thorn, cedillacomb, less, underscore, section, n, q, ringcomb, k, ogonekcomb, a, comma, Schwa, greaterqual, threequarters, circumflexcomb, hungarumlautcomb, germandbls, A.salt, Z, Yen, quotesingle, question, bullet, percent, approxequal, lessequal, t, Hbar, G, four, H, d, one.lf, Germandbls, a.salt, I.salt, f, g, h, equal, notequal, currency, divide, c, Eth, i, e.salt, T, minus, N, onehalf, l, Q, registered, tildecomb, lslash, bracketleft, one, multiply, y.salt, twosuperior, threesuperior, at 
+- position brevecomb
+- commaaccentcomb thicker
+- ogonekcomb thicker
+- dotaccentcomb bigger
+- hungarumlautcomb: thicker and position
+- spacing: 4, A, V, Y
 
 ## License
 
