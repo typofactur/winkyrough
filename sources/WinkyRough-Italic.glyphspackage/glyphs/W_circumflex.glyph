@@ -23,7 +23,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (197,125);
+pos = (182,125);
 ref = circumflexcomb;
 }
 );
@@ -36,11 +36,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (192,125);
+pos = (212,125);
 ref = circumflexcomb;
 }
 );
-width = 764;
+width = 784;
 }
 );
 unicode = 372;

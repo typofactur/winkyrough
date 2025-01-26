@@ -88,6 +88,9 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - italic angle: decomposed components: exclamdown, questiondown, parenright, braceright, guillemotleft, guillemotright, guilsingleright, quotedbleft, quotedblrigt, quoteleft, quoteright, backslash
 - position quotes
 
+**26 January 2025. Version 1.205**
+- italic angle eth
+
 
 ## License
 
