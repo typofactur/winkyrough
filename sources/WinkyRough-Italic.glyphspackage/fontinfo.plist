@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3340";
 .formatVersion = 3;
 axes = (
 {
@@ -15,10 +15,6 @@ name = Uppercase;
 }
 );
 customParameters = (
-{
-name = "Name Table Entry";
-value = "13; This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
-},
 {
 name = fsType;
 value = (
@@ -467,7 +463,7 @@ pos = -200;
 pos = 9;
 }
 );
-name = "Regular Italic";
+name = Italic;
 userData = {
 GSCornerRadius = 10;
 GSOffsetHorizontal = 5;
@@ -650,7 +646,7 @@ m005 = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
 axesValues = (
@@ -37475,6 +37471,15 @@ Thin
 
 ";
 properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Winky Rough Project Authors (https://github.com/typofactur/winkyrough)";
+}
+);
+},
 {
 key = designers;
 values = (
