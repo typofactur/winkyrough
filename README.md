@@ -99,6 +99,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 - ellipsis
 - Thorn thin
 - Germandbls thin
+- Ldot, ldot decomposed
 
 
 ## License
