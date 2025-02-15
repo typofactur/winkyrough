@@ -1,5 +1,6 @@
 {
 glyphname = quotesinglbase;
+kernLeft = KO_comma;
 kernRight = KO_comma;
 layers = (
 {
@@ -25,7 +26,7 @@ shapes = (
 ref = comma;
 }
 );
-width = 245;
+width = 239;
 },
 {
 hints = (
@@ -50,7 +51,7 @@ shapes = (
 ref = comma;
 }
 );
-width = 245;
+width = 253;
 },
 {
 hints = (

@@ -697,7 +697,4 @@ metricLeft = "=O";
 metricRight = "=O";
 note = C;
 unicode = 71;
-userData = {
-KernOnName = G;
-};
 }

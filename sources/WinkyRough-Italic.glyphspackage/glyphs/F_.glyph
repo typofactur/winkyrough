@@ -1,6 +1,6 @@
 {
 glyphname = F;
-kernLeft = KO_L;
+kernLeft = KO_N;
 kernRight = KO_F;
 layers = (
 {
@@ -554,7 +554,4 @@ metricLeft = "=|H";
 metricRight = "=H/2";
 note = E;
 unicode = 70;
-userData = {
-KernOnName = F;
-};
 }

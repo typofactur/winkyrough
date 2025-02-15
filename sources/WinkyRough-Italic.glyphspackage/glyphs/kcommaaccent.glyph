@@ -1,6 +1,6 @@
 {
 glyphname = kcommaaccent;
-kernLeft = KO_k;
+kernLeft = KO_h;
 kernRight = KO_k;
 layers = (
 {

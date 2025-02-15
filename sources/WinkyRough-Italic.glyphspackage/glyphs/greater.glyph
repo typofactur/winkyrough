@@ -1,5 +1,6 @@
 {
 glyphname = greater;
+kernRight = KO_greater;
 layers = (
 {
 hints = (

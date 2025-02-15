@@ -1,6 +1,6 @@
 {
 glyphname = omacron;
-kernLeft = KO_odieresis;
+kernLeft = KO_emacron;
 kernRight = KO_o;
 layers = (
 {

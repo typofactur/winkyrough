@@ -464,7 +464,4 @@ metricLeft = "=n";
 metricRight = "=|n";
 note = i;
 unicode = 105;
-userData = {
-KernOnName = i;
-};
 }

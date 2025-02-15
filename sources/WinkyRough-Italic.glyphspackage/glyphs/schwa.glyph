@@ -1,6 +1,7 @@
 {
 glyphname = schwa;
 kernLeft = KO_schwa;
+kernRight = KO_schwa;
 layers = (
 {
 layerId = m003;

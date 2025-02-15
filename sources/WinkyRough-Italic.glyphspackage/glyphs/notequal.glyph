@@ -1,6 +1,5 @@
 {
 glyphname = notequal;
-kernLeft = KO_equal;
 layers = (
 {
 hints = (

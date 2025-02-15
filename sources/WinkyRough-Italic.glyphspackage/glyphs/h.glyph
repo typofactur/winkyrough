@@ -1,7 +1,7 @@
 {
 glyphname = h;
 kernLeft = KO_h;
-kernRight = KO_h;
+kernRight = KO_m;
 layers = (
 {
 anchors = (
@@ -677,7 +677,4 @@ metricLeft = "=n";
 metricRight = "=n";
 note = h;
 unicode = 104;
-userData = {
-KernOnName = h;
-};
 }

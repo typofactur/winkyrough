@@ -1,5 +1,6 @@
 {
 glyphname = Thorn;
+kernLeft = KO_N;
 layers = (
 {
 hints = (

@@ -1,6 +1,6 @@
 {
 glyphname = Germandbls;
-kernLeft = KO_L;
+kernLeft = KO_N;
 layers = (
 {
 layerId = m005;

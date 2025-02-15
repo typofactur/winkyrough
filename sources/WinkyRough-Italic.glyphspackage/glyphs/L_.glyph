@@ -1,6 +1,6 @@
 {
 glyphname = L;
-kernLeft = KO_L;
+kernLeft = KO_N;
 kernRight = KO_L;
 layers = (
 {
@@ -526,7 +526,4 @@ width = 441;
 metricLeft = "=|H";
 note = E;
 unicode = 76;
-userData = {
-KernOnName = L;
-};
 }

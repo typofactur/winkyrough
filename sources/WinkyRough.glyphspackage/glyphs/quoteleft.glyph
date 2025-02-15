@@ -1,7 +1,7 @@
 {
 glyphname = quoteleft;
-kernLeft = KO_quotedblleft;
-kernRight = KO_quotedblleft;
+kernLeft = KO_quoteleft;
+kernRight = KO_quoteleft;
 layers = (
 {
 hints = (
@@ -28,7 +28,7 @@ pos = (239,580);
 ref = comma;
 }
 );
-width = 245;
+width = 239;
 },
 {
 hints = (
@@ -51,11 +51,11 @@ layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (248,620);
+pos = (252,620);
 ref = comma;
 }
 );
-width = 245;
+width = 252;
 },
 {
 hints = (

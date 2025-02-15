@@ -22,14 +22,15 @@ type = Stem;
 layerId = m005;
 shapes = (
 {
+pos = (-30,0);
 ref = quotesingle;
 },
 {
-pos = (151,0);
+pos = (121,0);
 ref = quotesingle;
 }
 );
-width = 327;
+width = 331;
 },
 {
 hints = (
@@ -50,14 +51,15 @@ type = Stem;
 layerId = m002;
 shapes = (
 {
+pos = (-25,0);
 ref = quotesingle;
 },
 {
-pos = (201,0);
+pos = (176,0);
 ref = quotesingle;
 }
 );
-width = 399;
+width = 401;
 },
 {
 hints = (
@@ -78,14 +80,15 @@ type = Stem;
 layerId = m003;
 shapes = (
 {
+pos = (-32,0);
 ref = quotesingle;
 },
 {
-pos = (170,0);
+pos = (138,0);
 ref = quotesingle;
 }
 );
-width = 352;
+width = 340;
 }
 );
 metricLeft = "=period";
@@ -93,7 +96,6 @@ metricRight = "=period";
 note = quotedbl;
 unicode = 34;
 userData = {
-KernOnName = quotedbl;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

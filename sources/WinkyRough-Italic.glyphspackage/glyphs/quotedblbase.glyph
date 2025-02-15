@@ -1,5 +1,6 @@
 {
 glyphname = quotedblbase;
+kernLeft = KO_comma;
 kernRight = KO_comma;
 layers = (
 {
@@ -33,7 +34,7 @@ pos = (195,0);
 ref = comma;
 }
 );
-width = 440;
+width = 434;
 },
 {
 hints = (
@@ -66,7 +67,7 @@ pos = (195,0);
 ref = comma;
 }
 );
-width = 440;
+width = 448;
 },
 {
 hints = (

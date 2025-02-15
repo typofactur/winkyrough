@@ -1,6 +1,6 @@
 {
 glyphname = semicolon;
-kernLeft = KO_semicolon;
+kernLeft = KO_colon;
 layers = (
 {
 hints = (
@@ -24,7 +24,7 @@ pos = (0,380);
 ref = period;
 }
 );
-width = 245;
+width = 239;
 },
 {
 hints = (
@@ -48,7 +48,7 @@ pos = (0,340);
 ref = period;
 }
 );
-width = 245;
+width = 252;
 },
 {
 hints = (

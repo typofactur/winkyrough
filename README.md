@@ -91,6 +91,15 @@ The proof files and QA tests are also available automatically via GitHub Actions
 **26 January 2025. Version 1.205**
 - italic angle eth
 
+**15 February 2025. Version 1.206**
+- kerning dcaron, lcaron, tcaron
+- size periodcentered, bullet
+- Ldot and ldot added
+- spacing period, comma, exclam, exclamdown italic
+- ellipsis
+- Thorn thin
+- Germandbls thin
+
 
 ## License
 

@@ -1,5 +1,5 @@
 {
-glyphname = lcaron;
+glyphname = ldot;
 kernLeft = KO_l;
 layers = (
 {
@@ -10,12 +10,10 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (181,0);
-ref = caroncomb.alt;
+ref = periodcentered;
 }
 );
-width = 312;
+width = 389;
 },
 {
 layerId = m005;
@@ -25,12 +23,10 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (189,0);
-ref = caroncomb.alt;
+ref = periodcentered;
 }
 );
-width = 332;
+width = 396;
 },
 {
 layerId = m002;
@@ -40,13 +36,14 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (247,0);
-ref = caroncomb.alt;
+pos = (70,35);
+ref = periodcentered;
 }
 );
-width = 377;
+width = 459;
 }
 );
-unicode = 318;
+metricLeft = "=l";
+metricRight = "=o";
+unicode = 320;
 }

@@ -1,6 +1,6 @@
 {
 glyphname = K;
-kernLeft = KO_L;
+kernLeft = KO_N;
 kernRight = KO_K;
 layers = (
 {

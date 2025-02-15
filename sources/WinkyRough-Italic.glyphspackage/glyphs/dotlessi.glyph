@@ -1,6 +1,6 @@
 {
 glyphname = dotlessi;
-kernLeft = KO_idotaccent;
+kernLeft = KO_n;
 kernRight = KO_iacute;
 layers = (
 {

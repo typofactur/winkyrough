@@ -1,6 +1,6 @@
 {
 glyphname = hbar;
-kernRight = KO_h;
+kernRight = KO_m;
 layers = (
 {
 layerId = m003;

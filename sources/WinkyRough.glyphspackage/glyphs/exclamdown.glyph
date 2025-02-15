@@ -10,7 +10,7 @@ ref = exclam;
 scale = (1,-1);
 }
 );
-width = 220;
+width = 225;
 },
 {
 layerId = m002;
@@ -21,7 +21,7 @@ ref = exclam;
 scale = (1,-1);
 }
 );
-width = 220;
+width = 230;
 },
 {
 layerId = m003;
@@ -32,9 +32,11 @@ ref = exclam;
 scale = (1,-1);
 }
 );
-width = 220;
+width = 208;
 }
 );
+metricLeft = "=period";
+metricRight = "=period";
 unicode = 161;
 userData = {
 KernOnSpecialSpacing = {

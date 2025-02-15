@@ -27,7 +27,7 @@ pos = (0,600);
 ref = comma;
 }
 );
-width = 245;
+width = 239;
 },
 {
 hints = (
@@ -53,7 +53,7 @@ pos = (0,600);
 ref = comma;
 }
 );
-width = 245;
+width = 252;
 },
 {
 hints = (

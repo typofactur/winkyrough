@@ -505,4 +505,7 @@ width = 249;
 metricRight = "=i";
 note = j;
 unicode = 106;
+userData = {
+KernOnName = j;
+};
 }

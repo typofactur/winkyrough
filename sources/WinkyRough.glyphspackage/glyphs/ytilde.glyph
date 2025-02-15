@@ -1,7 +1,6 @@
 {
 glyphname = ytilde;
 kernLeft = KO_y;
-kernRight = KO_y;
 layers = (
 {
 layerId = m003;

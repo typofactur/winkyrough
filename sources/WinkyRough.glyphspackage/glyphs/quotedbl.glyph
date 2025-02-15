@@ -29,7 +29,7 @@ pos = (151,0);
 ref = quotesingle;
 }
 );
-width = 325;
+width = 330;
 },
 {
 hints = (
@@ -50,14 +50,15 @@ type = Stem;
 layerId = m002;
 shapes = (
 {
+pos = (2,0);
 ref = quotesingle;
 },
 {
-pos = (201,0);
+pos = (203,0);
 ref = quotesingle;
 }
 );
-width = 399;
+width = 401;
 },
 {
 hints = (
@@ -85,7 +86,7 @@ pos = (170,0);
 ref = quotesingle;
 }
 );
-width = 352;
+width = 340;
 }
 );
 metricLeft = "=period";

@@ -800,7 +800,4 @@ metricLeft = "=|H";
 metricRight = "=H";
 note = N;
 unicode = 78;
-userData = {
-KernOnName = N;
-};
 }

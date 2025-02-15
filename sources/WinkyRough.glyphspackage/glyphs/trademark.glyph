@@ -21,11 +21,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (472,0);
+pos = (471,0);
 ref = M;
 }
 );
-width = 1191;
+width = 1190;
 },
 {
 layerId = m002;
@@ -34,11 +34,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (510,0);
+pos = (511,0);
 ref = M;
 }
 );
-width = 1238;
+width = 1239;
 }
 );
 unicode = 8482;
