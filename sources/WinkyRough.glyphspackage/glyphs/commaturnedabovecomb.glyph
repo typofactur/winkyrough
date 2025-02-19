@@ -41,28 +41,28 @@ pos = (239,680);
 ref = comma;
 }
 );
-width = 245;
+width = 239;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (123,500);
+pos = (127,500);
 },
 {
 name = top;
-pos = (123,824);
+pos = (127,824);
 }
 );
 layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (248,710);
+pos = (252,710);
 ref = comma;
 }
 );
-width = 245;
+width = 252;
 }
 );
 metricLeft = "=comma";
