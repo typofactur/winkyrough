@@ -45,6 +45,7 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
+languagesystem latn CAT;
 languagesystem latn NLD;
 ";
 name = Languagesystems;
@@ -127,11 +128,18 @@ lookup locl_latn_2 {
 } locl_latn_2;
 
 script latn;
-language NLD;
+language CAT;
 lookup locl_latn_3 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
-} locl_latn_3;
+} locl_latn_4;
 ";
 tag = locl;
 },
@@ -177,7 +185,8 @@ tag = onum;
 },
 {
 automatic = 1;
-code = "sub zero by zero.lf;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub zero by zero.lf;
 sub one by one.lf;
 sub two by two.lf;
 sub three by three.lf;
