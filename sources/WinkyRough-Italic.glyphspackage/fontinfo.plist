@@ -2293,6 +2293,7 @@ m003 = {
 "@MMK_R_KO_y" = -83;
 "@MMK_R_KO_z" = 0;
 "@MMK_R_KO_zero" = -32;
+periodcentered.loclCAT.case = -125;
 };
 "@MMK_L_KO_Lcaron" = {
 "@MMK_R_KO_A" = 18;
@@ -14468,6 +14469,7 @@ m005 = {
 "@MMK_R_KO_y" = -67;
 "@MMK_R_KO_z" = 0;
 "@MMK_R_KO_zero" = 0;
+periodcentered.loclCAT.case = -180;
 };
 "@MMK_L_KO_Lcaron" = {
 "@MMK_R_KO_A" = 62;
@@ -26643,6 +26645,7 @@ m002 = {
 "@MMK_R_KO_y" = -66;
 "@MMK_R_KO_z" = -8;
 "@MMK_R_KO_zero" = -20;
+periodcentered.loclCAT.case = -260;
 };
 "@MMK_L_KO_Lcaron" = {
 "@MMK_R_KO_A" = 0;
