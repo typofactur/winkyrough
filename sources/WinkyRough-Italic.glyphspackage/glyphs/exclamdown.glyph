@@ -65,7 +65,7 @@ layerId = m002;
 shapes = (
 {
 angle = 180;
-pos = (231,500);
+pos = (255,500);
 ref = exclam;
 }
 );

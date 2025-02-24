@@ -51,7 +51,7 @@ shapes = (
 ref = comma;
 }
 );
-width = 253;
+width = 245;
 },
 {
 hints = (

@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3340";
 .formatVersion = 3;
 axes = (
 {
@@ -45,6 +45,7 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
+languagesystem latn CAT;
 languagesystem latn NLD;
 ";
 name = Languagesystems;
@@ -127,11 +128,18 @@ lookup locl_latn_2 {
 } locl_latn_2;
 
 script latn;
-language NLD;
+language CAT;
 lookup locl_latn_3 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+script latn;
+language NLD;
+lookup locl_latn_4 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
-} locl_latn_3;
+} locl_latn_4;
 ";
 tag = locl;
 },
@@ -177,7 +185,8 @@ tag = onum;
 },
 {
 automatic = 1;
-code = "sub zero by zero.lf;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub zero by zero.lf;
 sub one by one.lf;
 sub two by two.lf;
 sub three by three.lf;
@@ -2422,6 +2431,7 @@ m003 = {
 "@MMK_R_KO_y" = -57;
 "@MMK_R_KO_z" = 13;
 "@MMK_R_KO_zero" = -26;
+periodcentered.loclCAT.case = -120;
 };
 "@MMK_L_KO_Lcaron" = {
 "@MMK_R_KO_A" = 35;
@@ -11747,14 +11757,6 @@ t = 10;
 u = -17;
 uacute = -17;
 };
-ldot = {
-a = -20;
-comma = -82;
-e = -22;
-i = -32;
-period = -82;
-u = -33;
-};
 less = {
 T = -89;
 Y = -67;
@@ -14558,6 +14560,7 @@ m005 = {
 "@MMK_R_KO_y" = -42;
 "@MMK_R_KO_z" = 0;
 "@MMK_R_KO_zero" = 0;
+periodcentered.loclCAT.case = -140;
 };
 "@MMK_L_KO_Lcaron" = {
 "@MMK_R_KO_A" = 58;
@@ -23883,14 +23886,6 @@ t = 20;
 u = 0;
 uacute = 0;
 };
-ldot = {
-a = -2;
-comma = -77;
-e = -2;
-i = -28;
-period = -77;
-u = -26;
-};
 less = {
 T = -51;
 Y = -39;
@@ -26694,6 +26689,7 @@ m002 = {
 "@MMK_R_KO_y" = -50;
 "@MMK_R_KO_z" = -2;
 "@MMK_R_KO_zero" = -16;
+periodcentered.loclCAT.case = -200;
 };
 "@MMK_L_KO_Lcaron" = {
 "@MMK_R_KO_A" = 0;
@@ -36018,14 +36014,6 @@ scaron = 0;
 t = 40;
 u = 0;
 uacute = 0;
-};
-ldot = {
-a = -3;
-comma = -68;
-e = -3;
-i = -13;
-period = -68;
-u = -7;
 };
 less = {
 T = -46;

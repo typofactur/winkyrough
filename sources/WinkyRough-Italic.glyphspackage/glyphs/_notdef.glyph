@@ -1,0 +1,52 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (10,0);
+ref = L;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (601,679);
+ref = L;
+}
+);
+width = 600;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (591,679);
+ref = L;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (591,679);
+ref = L;
+}
+);
+width = 570;
+}
+);
+}
