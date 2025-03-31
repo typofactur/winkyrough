@@ -12,7 +12,7 @@ fontbakery version: 0.13.2
 
 
 
-<details><summary>[7] WinkyRough[wght].ttf</summary>
+<details><summary>[7] WinkyRough-Italic[wght].ttf</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> Detect any interpolation issues in the font. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#interpolation-issues">interpolation_issues</a></summary>
@@ -25,107 +25,57 @@ fontbakery version: 0.13.2
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 start point differs in glyph 'zero' between location wght=400 and location wght=300
+<pre><code>- Contour 0 start point differs in glyph 'greater' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'zero' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'Euro' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'zero' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'Euro' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'asciitilde' between location wght=400 and location wght=300
+- Contour 1 start point differs in glyph 'Euro' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'asciitilde' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'eight' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'P' between location wght=300 and location wght=900
+- Contour 1 start point differs in glyph 'eight' between location wght=400 and location wght=300
 
-- Contour 1 start point differs in glyph 'notequal' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'T' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+- Contour 1 start point differs in glyph 'four' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'cent' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'h' between location wght=300 and location wght=900
+- Contour 1 start point differs in glyph 'cent' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'f' between location wght=300 and location wght=900
+- Contour 1 in glyph 'cent': becomes underweight between wght=400 and wght=300.
 
-- Contour 1 start point differs in glyph 'yen' between location wght=400 and location wght=300
+- Contour 1 start point differs in glyph 'cent' between location wght=300 and location wght=900
 
-- Contour 2 start point differs in glyph 'yen' between location wght=400 and location wght=300
+- Contour 2 start point differs in glyph 'cent' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'Lslash' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'divide' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'logicalnot' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'divide' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'logicalnot' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'Q' between location wght=300 and location wght=900
 
-- Contour 3 start point differs in glyph 'threequarters' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'plus' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'oslash' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'Y' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'slash' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'V' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'F' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'm' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'F' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'm' between location wght=300 and location wght=900
 
-- Contour 2 start point differs in glyph 'Eth' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'section' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'uni030C' between location wght=400 and location wght=300
+- Contour 1 start point differs in glyph 'section' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'two' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'd' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'Oslash' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'L' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'Oslash' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'S' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'S' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'hbar' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'hbar' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'hbar' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'ampersand' between location wght=400 and location wght=300
-
-- Contour 2 start point differs in glyph 'ampersand' between location wght=400 and location wght=300
-
-- Contour 2 in glyph 'ampersand': becomes underweight between wght=400 and wght=300.
-
-- Contour 0 start point differs in glyph 'three' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'j' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'lslash' between location wght=400 and location wght=300
-
-- Contour 2 start point differs in glyph 'uni0E3F' between location wght=300 and location wght=900
-
-- Contour 3 start point differs in glyph 'uni0E3F' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'thorn' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'thorn' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'ordmasculine' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'y' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'sterling' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'sterling' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'sterling' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'sterling' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'question' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'question' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'seven' between location wght=400 and location wght=300
 
 - Contour 0 start point differs in glyph 'copyright' between location wght=400 and location wght=300
 
@@ -135,27 +85,245 @@ fontbakery version: 0.13.2
 
 - Contour 0 start point differs in glyph 'copyright' between location wght=300 and location wght=900
 
+- Contour 1 start point differs in glyph 'copyright' between location wght=300 and location wght=900
+
 - Contour 2 start point differs in glyph 'copyright' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'u' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'O' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'guilsinglright' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'g' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'O' between location wght=300 and location wght=900
 
 - Contour 0 start point differs in glyph 'e.salt' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'uni1E9E' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'uni0259' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'G' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'perthousand' between location wght=400 and location wght=300
+
+- Contour 3 start point differs in glyph 'perthousand' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
+
+- Contour 4 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'w' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'w' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'zero.lf' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'approxequal' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'R' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'oslash' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'uni0237' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'germandbls' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'germandbls' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'oe' between location wght=400 and location wght=300
+
+- Contour 2 start point differs in glyph 'oe' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'bar' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'exclam' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'exclam' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'notequal' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'J' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'j' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'guillemotright' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'guillemotright' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'registered' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'registered' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'registered' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'AE' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'AE' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'AE' between location wght=300 and location wght=900
+
+- Contour 3 start point differs in glyph 'onequarter' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'onequarter' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni0328' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'fraction' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'K' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'logicalnot' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'logicalnot' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph '.notdef' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph '.notdef' between location wght=300 and location wght=900
+
+- Contour 2 start point differs in glyph 'uni0E3F' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'guilsinglleft' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'c' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'D' between location wght=400 and location wght=300
 
 - Contour 0 start point differs in glyph 'equal' between location wght=400 and location wght=300
 
 - Contour 0 start point differs in glyph 'equal' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'm' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'hyphen' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'm' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'r' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'uni0302' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'r' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni0304' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'asterisk' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'f' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni0327' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'brokenbar' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'brokenbar' between location wght=300 and location wght=900
+
+- Contour 2 start point differs in glyph 'percent' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'plusminus' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'S' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'S' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'sterling' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'sterling' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'sterling' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'sterling' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'F' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'F' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'guilsinglright' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'v' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'a' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'x' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'questiondown' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'underscore' between location wght=300 and location wght=900
+
+- Contour 2 start point differs in glyph 'ampersand' between location wght=400 and location wght=300
+
+- Contour 2 in glyph 'ampersand': becomes underweight between wght=400 and wght=300.
+
+- Contour 0 start point differs in glyph 'bracketleft' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'H.salt' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'ae' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni00B9' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'exclamdown' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'exclamdown' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'hbar' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'hbar' between location wght=300 and location wght=900
+
+- Contour 2 start point differs in glyph 'ellipsis' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'zero' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'zero' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'zero' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'Hbar' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni030C' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'at' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'asciitilde' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'asciitilde' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'p' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'threequarters' between location wght=400 and location wght=300
+
+- Contour 3 start point differs in glyph 'threequarters' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 's' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'three' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'k' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'k' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni030B' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'b' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'b' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'b' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'o' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'B' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'q' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni030C.alt' between location wght=300 and location wght=900
+
+- Contour 0 in glyph 'uni030C.alt': becomes underweight between wght=300 and wght=900.
+
+- Contour 0 start point differs in glyph 'e' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'Lslash' between location wght=300 and location wght=900
 
 - Contour 1 start point differs in glyph 'dollar' between location wght=400 and location wght=300
 
@@ -167,229 +335,85 @@ fontbakery version: 0.13.2
 
 - Contour 2 start point differs in glyph 'dollar' between location wght=300 and location wght=900
 
+- Contour 0 start point differs in glyph 'OE' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'OE' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'uni0306' between location wght=400 and location wght=300
+
+- Contour 2 start point differs in glyph 'onehalf' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'thorn' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'thorn' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'lessequal' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'P' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'P' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni0308' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'uni0308' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'five' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'Oslash' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
+
+- Contour 2 start point differs in glyph 'eth' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'g.salt' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni018F' between location wght=300 and location wght=900
+
 - Contour 1 start point differs in glyph 'dcroat' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'divide' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'question' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'divide' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'dotlessi' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'greater' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'uni0302' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'registered' between location wght=400 and location wght=300
+- Contour 2 start point differs in glyph 'Eth' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'registered' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'H' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'uni0328' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'u' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'section' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'backslash' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'backslash' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'less' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'slash' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'slash' between location wght=300 and location wght=900
 
 - Contour 0 start point differs in glyph 'A' between location wght=400 and location wght=300
 
 - Contour 1 start point differs in glyph 'A' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'A' between location wght=300 and location wght=900
-
-- Contour 2 start point differs in glyph 'ellipsis' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'bar' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'b' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'b' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'b' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'Y' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'dotlessi' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'brokenbar' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'brokenbar' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'r' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'r' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'q' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'seven' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'uni00B9' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'c' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'V' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'bracketleft' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'y.salt' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'L' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'z' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'p' between location wght=400 and location wght=300
-
-- Contour 3 start point differs in glyph 'onequarter' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'onequarter' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'R' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'eight' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'eight' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph '.notdef' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph '.notdef' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'backslash' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'plusminus' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'G' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'G' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'k' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni030C.alt' between location wght=300 and location wght=900
-
-- Contour 0 in glyph 'uni030C.alt': becomes underweight between wght=300 and wght=900.
-
-- Contour 2 start point differs in glyph 'onehalf' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'B' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'B' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'OE' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'OE' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'T' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 's' between location wght=300 and location wght=900
-
 - Contour 0 start point differs in glyph 'W' between location wght=400 and location wght=300
 
 - Contour 0 in glyph 'W': becomes underweight between wght=400 and wght=300.
 
-- Contour 0 start point differs in glyph 'W' between location wght=300 and location wght=900
+- Contour 1 start point differs in glyph 'six' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'cent' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'z' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'cent' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'g' between location wght=300 and location wght=900
 
-- Contour 1 in glyph 'cent': becomes underweight between wght=400 and wght=300.
+- Contour 1 start point differs in glyph 'yen' between location wght=400 and location wght=300
 
-- Contour 2 start point differs in glyph 'cent' between location wght=300 and location wght=900
+- Contour 2 start point differs in glyph 'yen' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'one.lf' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'oe' between location wght=400 and location wght=300
-
-- Contour 2 start point differs in glyph 'oe' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'zero.lf' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'Euro' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'Euro' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'Euro' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'a' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'fraction' between location wght=400 and location wght=300
-
-- Contour 3 start point differs in glyph 'perthousand' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
-
-- Contour 3 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'D' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'uni030B' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'd' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'exclamdown' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'exclamdown' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'four' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni018F' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'nine' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'nine' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'questiondown' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'e' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'Q' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'plus' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni0237' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'hyphen' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'uni0259' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'w' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'g.salt' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'five' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'o' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'period' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'period' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'AE' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'AE' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'AE' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'guilsinglleft' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'exclam' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'exclam' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'exclam' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'O' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'O' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'less' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'J' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'approxequal' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'x' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni0306' between location wght=400 and location wght=300
+- Contour 1 start point differs in glyph 'yen' between location wght=300 and location wght=900
 </code></pre>
  [code: interpolation-issues]
 
@@ -453,10 +477,10 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, tifinagh, math</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, syriac, tai-le, todhri, malayalam, canadian-aboriginal, hebrew, coptic, duployan, tifinagh, math</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, coptic, old-permic, math, duployan, syriac, todhri, canadian-aboriginal, malayalam, hebrew</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
@@ -475,20 +499,20 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+2008 PUNCTUATION SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: grantha, khojki, mahajani, nko, sundanese, hanunoo, dogra, manichaean, psalter-pahlavi, tai-le, thai, cham, oriya, thaana, malayalam, mongolian, tifinagh, balinese, brahmi, siddham, newa, kayah-li, phags-pa, gunjala-gondi, syriac, telugu, tibetan, bhaiksuki, hatran, lao, tamil, kharoshthi, sharada, zanabazar-square, buginese, saurashtra, arabic, new-tai-lue, mandaic, duployan, lepcha, meetei-mayek, pahawh-hmong, buhid, syloti-nagri, javanese, yi, myanmar, batak, takri, sogdian, tai-viet, kaithi, devanagari, masaram-gondi, chakma, kannada, gujarati, limbu, tagalog, tagbanwa, tirhuta, tai-tham, modi, warang-citi, khmer, khudawadi, hebrew, avestan, bengali, rejang, sinhala, hanifi-rohingya, gurmukhi</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: grantha, khojki, mahajani, nko, sundanese, hanunoo, dogra, manichaean, psalter-pahlavi, tai-le, thai, cham, oriya, thaana, malayalam, mongolian, tifinagh, balinese, brahmi, siddham, newa, kayah-li, phags-pa, gunjala-gondi, syriac, old-hungarian, telugu, tibetan, bhaiksuki, lao, tamil, kharoshthi, sharada, zanabazar-square, buginese, saurashtra, arabic, new-tai-lue, mandaic, duployan, lepcha, meetei-mayek, pahawh-hmong, buhid, syloti-nagri, javanese, yi, myanmar, batak, takri, sogdian, tai-viet, kaithi, devanagari, masaram-gondi, chakma, kannada, gujarati, limbu, tagalog, tagbanwa, tirhuta, tai-tham, modi, warang-citi, khmer, khudawadi, hebrew, avestan, bengali, rejang, sinhala, hanifi-rohingya, gurmukhi</li>
-<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: syriac, nko, phags-pa, arabic, thaana, hebrew</li>
-<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: syriac, nko, phags-pa, thaana, hebrew</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: gurmukhi, new-tai-lue, tifinagh, hatran, telugu, hanifi-rohingya, mongolian, mahajani, tai-tham, gunjala-gondi, javanese, buginese, lao, dogra, cham, kannada, modi, oriya, sogdian, tai-viet, mandaic, zanabazar-square, yi, avestan, gujarati, manichaean, arabic, limbu, khudawadi, takri, bhaiksuki, lepcha, newa, myanmar, brahmi, phags-pa, sundanese, thaana, syloti-nagri, batak, saurashtra, meetei-mayek, nko, hanunoo, sinhala, masaram-gondi, bengali, psalter-pahlavi, duployan, syriac, balinese, rejang, buhid, tirhuta, grantha, thai, sharada, kayah-li, tai-le, tamil, pahawh-hmong, devanagari, khmer, khojki, tibetan, kaithi, kharoshthi, tagalog, siddham, warang-citi, malayalam, chakma, tagbanwa, hebrew</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: gurmukhi, new-tai-lue, tifinagh, telugu, hanifi-rohingya, mongolian, mahajani, old-hungarian, tai-tham, gunjala-gondi, javanese, buginese, lao, dogra, cham, kannada, modi, oriya, sogdian, tai-viet, mandaic, zanabazar-square, yi, avestan, gujarati, manichaean, arabic, limbu, khudawadi, takri, bhaiksuki, lepcha, newa, myanmar, brahmi, phags-pa, sundanese, thaana, syloti-nagri, batak, saurashtra, meetei-mayek, nko, hanunoo, sinhala, masaram-gondi, bengali, psalter-pahlavi, duployan, syriac, balinese, rejang, buhid, tirhuta, grantha, thai, sharada, kayah-li, tai-le, tamil, pahawh-hmong, devanagari, khmer, khojki, tibetan, kaithi, kharoshthi, tagalog, siddham, warang-citi, malayalam, chakma, tagbanwa, hebrew</li>
+<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: nko, arabic, syriac, phags-pa, thaana, hebrew</li>
+<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, syriac, thaana, phags-pa, hebrew</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, phags-pa, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi, phags-pa</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+205F MEDIUM MATHEMATICAL SPACE: try adding math</li>
 <li>U+2248 ALMOST EQUAL TO: try adding math</li>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: grantha, mahajani, nko, sundanese, tai-le, osage, malayalam, wancho, kayah-li, phags-pa, tamil, sharada, saurashtra, lepcha, meetei-mayek, pahawh-hmong, elbasan, kaithi, chakma, kannada, tirhuta, miao, mende-kikakui, khudawadi, tai-viet, coptic, sinhala, khojki, thai, siddham, symbols, syriac, new-tai-lue, mandaic, duployan, syloti-nagri, yi, takri, canadian-aboriginal, masaram-gondi, gujarati, music, bengali, hanifi-rohingya, psalter-pahlavi, dogra, cham, thaana, marchen, balinese, newa, telugu, lao, kharoshthi, zanabazar-square, bassa-vah, buhid, batak, adlam, sogdian, math, limbu, old-permic, soyombo, tagalog, tagbanwa, modi, warang-citi, hebrew, rejang, hanunoo, manichaean, oriya, mongolian, ahom, tifinagh, brahmi, gunjala-gondi, armenian, tibetan, bhaiksuki, buginese, caucasian-albanian, javanese, myanmar, devanagari, tai-tham, khmer, gurmukhi</li>
-<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: japanese, phags-pa, chinese-traditional, chinese-hongkong, chinese-simplified, nushu, yi</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: new-tai-lue, coptic, telugu, mongolian, mahajani, lao, caucasian-albanian, dogra, oriya, mandaic, gujarati, newa, brahmi, saurashtra, thai, tamil, khojki, khmer, kaithi, kharoshthi, siddham, chakma, tagbanwa, ahom, adlam, javanese, zanabazar-square, takri, limbu, khudawadi, lepcha, canadian-aboriginal, myanmar, nko, hanunoo, sinhala, psalter-pahlavi, bengali, duployan, syriac, balinese, buhid, kayah-li, tai-le, tibetan, math, hebrew, gurmukhi, tifinagh, soyombo, tai-tham, gunjala-gondi, armenian, symbols, sogdian, bhaiksuki, sundanese, marchen, batak, syloti-nagri, meetei-mayek, masaram-gondi, bassa-vah, osage, grantha, elbasan, miao, devanagari, music, hanifi-rohingya, wancho, buginese, cham, kannada, modi, tai-viet, old-permic, yi, manichaean, phags-pa, thaana, mende-kikakui, rejang, tirhuta, sharada, pahawh-hmong, tagalog, warang-citi, malayalam</li>
+<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: nushu, chinese-simplified, yi, chinese-hongkong, japanese, phags-pa, chinese-traditional</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
  [code: unreachable-subsetting]
@@ -536,6 +560,14 @@ definitions.</p>
 <tr>
 <td align="left">The following auxiliary characters are missing from the font: ſ</td>
 <td align="left">de_Latn (German) and fr_Latn (French)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ʻ</td>
+<td align="left">en_Latn (English)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
@@ -689,7 +721,7 @@ definitions.</p>
 </div>
 </details>
 
-<details><summary>[7] WinkyRough-Italic[wght].ttf</summary>
+<details><summary>[7] WinkyRough[wght].ttf</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> Detect any interpolation issues in the font. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#interpolation-issues">interpolation_issues</a></summary>
@@ -702,107 +734,55 @@ definitions.</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 start point differs in glyph 'zero' between location wght=400 and location wght=300
+<pre><code>- Contour 0 start point differs in glyph 'greater' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'zero' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'Euro' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'zero' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'Euro' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'asciitilde' between location wght=400 and location wght=300
+- Contour 1 start point differs in glyph 'Euro' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'asciitilde' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'eight' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'uni0327' between location wght=400 and location wght=300
+- Contour 1 start point differs in glyph 'eight' between location wght=400 and location wght=300
 
-- Contour 1 start point differs in glyph 'P' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'T' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'P' between location wght=300 and location wght=900
+- Contour 1 start point differs in glyph 'four' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'notequal' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'cent' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+- Contour 1 start point differs in glyph 'cent' between location wght=400 and location wght=300
 
-- Contour 1 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+- Contour 1 in glyph 'cent': becomes underweight between wght=400 and wght=300.
 
-- Contour 0 start point differs in glyph 'f' between location wght=300 and location wght=900
+- Contour 2 start point differs in glyph 'cent' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'yen' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'divide' between location wght=400 and location wght=300
 
-- Contour 2 start point differs in glyph 'yen' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'divide' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'yen' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'one.lf' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'Lslash' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'Q' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'logicalnot' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'plus' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'logicalnot' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'Y' between location wght=400 and location wght=300
 
-- Contour 1 start point differs in glyph 'Hbar' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'V' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'threequarters' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'm' between location wght=400 and location wght=300
 
-- Contour 3 start point differs in glyph 'threequarters' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'm' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'oslash' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'section' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'slash' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'd' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'slash' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'L' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'F' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'F' between location wght=300 and location wght=900
-
-- Contour 2 start point differs in glyph 'Eth' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'uni030C' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'Oslash' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'H.salt' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'S' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'S' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'hbar' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'hbar' between location wght=300 and location wght=900
-
-- Contour 2 start point differs in glyph 'ampersand' between location wght=400 and location wght=300
-
-- Contour 2 in glyph 'ampersand': becomes underweight between wght=400 and wght=300.
-
-- Contour 0 start point differs in glyph 'three' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'j' between location wght=300 and location wght=900
-
-- Contour 2 start point differs in glyph 'uni0E3F' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'thorn' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'thorn' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'ordmasculine' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'sterling' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'sterling' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'sterling' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'sterling' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'question' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'germandbls' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'germandbls' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'seven' between location wght=400 and location wght=300
 
 - Contour 0 start point differs in glyph 'copyright' between location wght=400 and location wght=300
 
@@ -812,29 +792,233 @@ definitions.</p>
 
 - Contour 0 start point differs in glyph 'copyright' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'copyright' between location wght=300 and location wght=900
-
 - Contour 2 start point differs in glyph 'copyright' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'u' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'O' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'guilsinglright' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'g' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'O' between location wght=300 and location wght=900
 
 - Contour 0 start point differs in glyph 'e.salt' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'at' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'uni0259' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'G' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'G' between location wght=300 and location wght=900
+
+- Contour 3 start point differs in glyph 'perthousand' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
+
+- Contour 3 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'w' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'zero.lf' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'approxequal' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'R' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'h' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'oslash' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'uni0237' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'oe' between location wght=400 and location wght=300
+
+- Contour 2 start point differs in glyph 'oe' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni1E9E' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'bar' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'exclam' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'exclam' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'exclam' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'notequal' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'notequal' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'J' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'j' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'registered' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'registered' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'AE' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'AE' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'AE' between location wght=300 and location wght=900
+
+- Contour 3 start point differs in glyph 'onequarter' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'onequarter' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni0328' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'fraction' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'period' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'period' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'logicalnot' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'logicalnot' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph '.notdef' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph '.notdef' between location wght=300 and location wght=900
+
+- Contour 2 start point differs in glyph 'uni0E3F' between location wght=300 and location wght=900
+
+- Contour 3 start point differs in glyph 'uni0E3F' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'guilsinglleft' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'c' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'D' between location wght=400 and location wght=300
 
 - Contour 0 start point differs in glyph 'equal' between location wght=400 and location wght=300
 
 - Contour 0 start point differs in glyph 'equal' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'm' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'hyphen' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'm' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'r' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'uni0302' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'r' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'f' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'brokenbar' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'brokenbar' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'plusminus' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'S' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'S' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'sterling' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'sterling' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'sterling' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'sterling' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'F' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'F' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'y' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'guilsinglright' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'a' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'y.salt' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'x' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'questiondown' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'ampersand' between location wght=400 and location wght=300
+
+- Contour 2 start point differs in glyph 'ampersand' between location wght=400 and location wght=300
+
+- Contour 2 in glyph 'ampersand': becomes underweight between wght=400 and wght=300.
+
+- Contour 0 start point differs in glyph 'bracketleft' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'lslash' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'uni00B9' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'exclamdown' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'exclamdown' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'hbar' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'hbar' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'hbar' between location wght=300 and location wght=900
+
+- Contour 2 start point differs in glyph 'ellipsis' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'zero' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'zero' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'zero' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni030C' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'asciitilde' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'asciitilde' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'p' between location wght=400 and location wght=300
+
+- Contour 3 start point differs in glyph 'threequarters' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 's' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'three' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'k' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni030B' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'b' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'b' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'b' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'o' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'B' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'B' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'q' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni030C.alt' between location wght=300 and location wght=900
+
+- Contour 0 in glyph 'uni030C.alt': becomes underweight between wght=300 and wght=900.
+
+- Contour 0 start point differs in glyph 'e' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'nine' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'nine' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'Lslash' between location wght=300 and location wght=900
 
 - Contour 1 start point differs in glyph 'dollar' between location wght=400 and location wght=300
 
@@ -846,251 +1030,75 @@ definitions.</p>
 
 - Contour 2 start point differs in glyph 'dollar' between location wght=300 and location wght=900
 
+- Contour 0 start point differs in glyph 'OE' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'OE' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'uni0306' between location wght=400 and location wght=300
+
+- Contour 2 start point differs in glyph 'onehalf' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'thorn' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'thorn' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'P' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'five' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'Oslash' between location wght=400 and location wght=300
+
+- Contour 1 start point differs in glyph 'Oslash' between location wght=400 and location wght=300
+
+- Contour 0 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
+
+- Contour 1 start point differs in glyph 'Oslash' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'g.salt' between location wght=300 and location wght=900
+
+- Contour 0 start point differs in glyph 'uni018F' between location wght=300 and location wght=900
+
 - Contour 1 start point differs in glyph 'dcroat' between location wght=300 and location wght=900
 
-- Contour 2 start point differs in glyph 'eth' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'two' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'uni0308' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'question' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'uni0308' between location wght=400 and location wght=300
+- Contour 1 start point differs in glyph 'question' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'divide' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'dotlessi' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'divide' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'uni0302' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'greater' between location wght=300 and location wght=900
+- Contour 2 start point differs in glyph 'Eth' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'registered' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'u' between location wght=400 and location wght=300
 
-- Contour 0 start point differs in glyph 'registered' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'backslash' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'registered' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'less' between location wght=300 and location wght=900
 
-- Contour 0 start point differs in glyph 'uni0328' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'lessequal' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'section' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'section' between location wght=300 and location wght=900
+- Contour 0 start point differs in glyph 'slash' between location wght=300 and location wght=900
 
 - Contour 0 start point differs in glyph 'A' between location wght=400 and location wght=300
 
 - Contour 1 start point differs in glyph 'A' between location wght=400 and location wght=300
 
-- Contour 2 start point differs in glyph 'ellipsis' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'bar' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'b' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'b' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'b' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'Y' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'dotlessi' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'brokenbar' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'brokenbar' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'r' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'r' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'q' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'seven' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'uni00B9' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'c' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni0304' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'V' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'bracketleft' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'L' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'z' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'p' between location wght=400 and location wght=300
-
-- Contour 3 start point differs in glyph 'onequarter' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'onequarter' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'six' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'R' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'eight' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'eight' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph '.notdef' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph '.notdef' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'backslash' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'backslash' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'plusminus' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'G' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'k' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'k' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'H' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni030C.alt' between location wght=300 and location wght=900
-
-- Contour 0 in glyph 'uni030C.alt': becomes underweight between wght=300 and wght=900.
-
-- Contour 2 start point differs in glyph 'onehalf' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'B' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'OE' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'OE' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'T' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'guillemotleft' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 's' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'K' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'A' between location wght=300 and location wght=900
 
 - Contour 0 start point differs in glyph 'W' between location wght=400 and location wght=300
 
 - Contour 0 in glyph 'W': becomes underweight between wght=400 and wght=300.
 
-- Contour 0 start point differs in glyph 'cent' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'W' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'cent' between location wght=400 and location wght=300
+- Contour 0 start point differs in glyph 'z' between location wght=300 and location wght=900
 
-- Contour 1 in glyph 'cent': becomes underweight between wght=400 and wght=300.
+- Contour 0 start point differs in glyph 'g' between location wght=300 and location wght=900
 
-- Contour 1 start point differs in glyph 'cent' between location wght=300 and location wght=900
+- Contour 1 start point differs in glyph 'yen' between location wght=400 and location wght=300
 
-- Contour 2 start point differs in glyph 'cent' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'guillemotright' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'guillemotright' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'oe' between location wght=400 and location wght=300
-
-- Contour 2 start point differs in glyph 'oe' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'zero.lf' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'Euro' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'Euro' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'Euro' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'a' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'fraction' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'perthousand' between location wght=400 and location wght=300
-
-- Contour 3 start point differs in glyph 'perthousand' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
-
-- Contour 4 start point differs in glyph 'perthousand' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'D' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'uni030B' between location wght=400 and location wght=300
-
-- Contour 2 start point differs in glyph 'percent' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'd' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'exclamdown' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'exclamdown' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'four' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni018F' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'v' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'questiondown' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'e' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'Q' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'ae' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'greaterequal' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'underscore' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'plus' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni0237' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'hyphen' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'uni0259' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'w' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'w' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'g.salt' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'five' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'o' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'AE' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'AE' between location wght=300 and location wght=900
-
-- Contour 1 start point differs in glyph 'AE' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'guilsinglleft' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'asterisk' between location wght=400 and location wght=300
-
-- Contour 1 start point differs in glyph 'exclam' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'exclam' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'O' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'O' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'less' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'J' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'approxequal' between location wght=400 and location wght=300
-
-- Contour 0 start point differs in glyph 'x' between location wght=300 and location wght=900
-
-- Contour 0 start point differs in glyph 'uni0306' between location wght=400 and location wght=300
+- Contour 2 start point differs in glyph 'yen' between location wght=400 and location wght=300
 </code></pre>
  [code: interpolation-issues]
 
@@ -1154,10 +1162,10 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, tifinagh, math</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, syriac, tai-le, todhri, malayalam, canadian-aboriginal, hebrew, coptic, duployan, tifinagh, math</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, coptic, old-permic, math, duployan, syriac, todhri, canadian-aboriginal, malayalam, hebrew</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
@@ -1176,20 +1184,20 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: try adding symbols2</li>
 <li>U+2008 PUNCTUATION SPACE: try adding symbols2</li>
 <li>U+200A HAIR SPACE: try adding symbols2</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: grantha, khojki, mahajani, nko, sundanese, hanunoo, dogra, manichaean, psalter-pahlavi, tai-le, thai, cham, oriya, thaana, malayalam, mongolian, tifinagh, balinese, brahmi, siddham, newa, kayah-li, phags-pa, gunjala-gondi, syriac, telugu, tibetan, bhaiksuki, hatran, lao, tamil, kharoshthi, sharada, zanabazar-square, buginese, saurashtra, arabic, new-tai-lue, mandaic, duployan, lepcha, meetei-mayek, pahawh-hmong, buhid, syloti-nagri, javanese, yi, myanmar, batak, takri, sogdian, tai-viet, kaithi, devanagari, masaram-gondi, chakma, kannada, gujarati, limbu, tagalog, tagbanwa, tirhuta, tai-tham, modi, warang-citi, khmer, khudawadi, hebrew, avestan, bengali, rejang, sinhala, hanifi-rohingya, gurmukhi</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: grantha, khojki, mahajani, nko, sundanese, hanunoo, dogra, manichaean, psalter-pahlavi, tai-le, thai, cham, oriya, thaana, malayalam, mongolian, tifinagh, balinese, brahmi, siddham, newa, kayah-li, phags-pa, gunjala-gondi, syriac, old-hungarian, telugu, tibetan, bhaiksuki, lao, tamil, kharoshthi, sharada, zanabazar-square, buginese, saurashtra, arabic, new-tai-lue, mandaic, duployan, lepcha, meetei-mayek, pahawh-hmong, buhid, syloti-nagri, javanese, yi, myanmar, batak, takri, sogdian, tai-viet, kaithi, devanagari, masaram-gondi, chakma, kannada, gujarati, limbu, tagalog, tagbanwa, tirhuta, tai-tham, modi, warang-citi, khmer, khudawadi, hebrew, avestan, bengali, rejang, sinhala, hanifi-rohingya, gurmukhi</li>
-<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: syriac, nko, phags-pa, arabic, thaana, hebrew</li>
-<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: syriac, nko, phags-pa, thaana, hebrew</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: gurmukhi, new-tai-lue, tifinagh, hatran, telugu, hanifi-rohingya, mongolian, mahajani, tai-tham, gunjala-gondi, javanese, buginese, lao, dogra, cham, kannada, modi, oriya, sogdian, tai-viet, mandaic, zanabazar-square, yi, avestan, gujarati, manichaean, arabic, limbu, khudawadi, takri, bhaiksuki, lepcha, newa, myanmar, brahmi, phags-pa, sundanese, thaana, syloti-nagri, batak, saurashtra, meetei-mayek, nko, hanunoo, sinhala, masaram-gondi, bengali, psalter-pahlavi, duployan, syriac, balinese, rejang, buhid, tirhuta, grantha, thai, sharada, kayah-li, tai-le, tamil, pahawh-hmong, devanagari, khmer, khojki, tibetan, kaithi, kharoshthi, tagalog, siddham, warang-citi, malayalam, chakma, tagbanwa, hebrew</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: gurmukhi, new-tai-lue, tifinagh, telugu, hanifi-rohingya, mongolian, mahajani, old-hungarian, tai-tham, gunjala-gondi, javanese, buginese, lao, dogra, cham, kannada, modi, oriya, sogdian, tai-viet, mandaic, zanabazar-square, yi, avestan, gujarati, manichaean, arabic, limbu, khudawadi, takri, bhaiksuki, lepcha, newa, myanmar, brahmi, phags-pa, sundanese, thaana, syloti-nagri, batak, saurashtra, meetei-mayek, nko, hanunoo, sinhala, masaram-gondi, bengali, psalter-pahlavi, duployan, syriac, balinese, rejang, buhid, tirhuta, grantha, thai, sharada, kayah-li, tai-le, tamil, pahawh-hmong, devanagari, khmer, khojki, tibetan, kaithi, kharoshthi, tagalog, siddham, warang-citi, malayalam, chakma, tagbanwa, hebrew</li>
+<li>U+200E LEFT-TO-RIGHT MARK: try adding one of: nko, arabic, syriac, phags-pa, thaana, hebrew</li>
+<li>U+200F RIGHT-TO-LEFT MARK: try adding one of: nko, syriac, thaana, phags-pa, hebrew</li>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, phags-pa, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi, phags-pa</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+205F MEDIUM MATHEMATICAL SPACE: try adding math</li>
 <li>U+2248 ALMOST EQUAL TO: try adding math</li>
 <li>U+2260 NOT EQUAL TO: try adding math</li>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: grantha, mahajani, nko, sundanese, tai-le, osage, malayalam, wancho, kayah-li, phags-pa, tamil, sharada, saurashtra, lepcha, meetei-mayek, pahawh-hmong, elbasan, kaithi, chakma, kannada, tirhuta, miao, mende-kikakui, khudawadi, tai-viet, coptic, sinhala, khojki, thai, siddham, symbols, syriac, new-tai-lue, mandaic, duployan, syloti-nagri, yi, takri, canadian-aboriginal, masaram-gondi, gujarati, music, bengali, hanifi-rohingya, psalter-pahlavi, dogra, cham, thaana, marchen, balinese, newa, telugu, lao, kharoshthi, zanabazar-square, bassa-vah, buhid, batak, adlam, sogdian, math, limbu, old-permic, soyombo, tagalog, tagbanwa, modi, warang-citi, hebrew, rejang, hanunoo, manichaean, oriya, mongolian, ahom, tifinagh, brahmi, gunjala-gondi, armenian, tibetan, bhaiksuki, buginese, caucasian-albanian, javanese, myanmar, devanagari, tai-tham, khmer, gurmukhi</li>
-<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: japanese, phags-pa, chinese-traditional, chinese-hongkong, chinese-simplified, nushu, yi</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: new-tai-lue, coptic, telugu, mongolian, mahajani, lao, caucasian-albanian, dogra, oriya, mandaic, gujarati, newa, brahmi, saurashtra, thai, tamil, khojki, khmer, kaithi, kharoshthi, siddham, chakma, tagbanwa, ahom, adlam, javanese, zanabazar-square, takri, limbu, khudawadi, lepcha, canadian-aboriginal, myanmar, nko, hanunoo, sinhala, psalter-pahlavi, bengali, duployan, syriac, balinese, buhid, kayah-li, tai-le, tibetan, math, hebrew, gurmukhi, tifinagh, soyombo, tai-tham, gunjala-gondi, armenian, symbols, sogdian, bhaiksuki, sundanese, marchen, batak, syloti-nagri, meetei-mayek, masaram-gondi, bassa-vah, osage, grantha, elbasan, miao, devanagari, music, hanifi-rohingya, wancho, buginese, cham, kannada, modi, tai-viet, old-permic, yi, manichaean, phags-pa, thaana, mende-kikakui, rejang, tirhuta, sharada, pahawh-hmong, tagalog, warang-citi, malayalam</li>
+<li>U+3000 IDEOGRAPHIC SPACE: try adding one of: nushu, chinese-simplified, yi, chinese-hongkong, japanese, phags-pa, chinese-traditional</li>
 </ul>
 <p>Or you can add the above codepoints to one of the subsets supported by the font: <code>latin</code>, <code>latin-ext</code></p>
  [code: unreachable-subsetting]
@@ -1237,6 +1245,14 @@ definitions.</p>
 <tr>
 <td align="left">The following auxiliary characters are missing from the font: ſ</td>
 <td align="left">de_Latn (German) and fr_Latn (French)</td>
+</tr>
+<tr>
+<td align="left">Auxiliary orthography codepoints:</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">The following auxiliary characters are missing from the font: ʻ</td>
+<td align="left">en_Latn (English)</td>
 </tr>
 <tr>
 <td align="left">Auxiliary orthography codepoints:</td>
